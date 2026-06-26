@@ -12,6 +12,7 @@
 | ------- | ------- |
 | [0001-two-sum](https://github.com/stuti760/DSA-Practice/tree/main/0001-two-sum/) | Easy |
 | [0012-integer-to-roman](https://github.com/stuti760/DSA-Practice/tree/main/0012-integer-to-roman/) | Medium |
+| [0013-roman-to-integer](https://github.com/stuti760/DSA-Practice/tree/main/0013-roman-to-integer/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -23,6 +24,7 @@
 | [0007-reverse-integer](https://github.com/stuti760/DSA-Practice/tree/main/0007-reverse-integer/) | Medium |
 | [0009-palindrome-number](https://github.com/stuti760/DSA-Practice/tree/main/0009-palindrome-number/) | Easy |
 | [0012-integer-to-roman](https://github.com/stuti760/DSA-Practice/tree/main/0012-integer-to-roman/) | Medium |
+| [0013-roman-to-integer](https://github.com/stuti760/DSA-Practice/tree/main/0013-roman-to-integer/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -46,6 +48,7 @@
 | [0005-longest-palindromic-substring](https://github.com/stuti760/DSA-Practice/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0006-zigzag-conversion](https://github.com/stuti760/DSA-Practice/tree/main/0006-zigzag-conversion/) | Medium |
 | [0012-integer-to-roman](https://github.com/stuti760/DSA-Practice/tree/main/0012-integer-to-roman/) | Medium |
+| [0013-roman-to-integer](https://github.com/stuti760/DSA-Practice/tree/main/0013-roman-to-integer/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
