@@ -12,6 +12,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/stuti760/DSA-Practice/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/stuti760/DSA-Practice/tree/main/0035-search-insert-position/) | Easy |
 | [0041-first-missing-positive](https://github.com/stuti760/DSA-Practice/tree/main/0041-first-missing-positive/) | Hard |
+| [0046-permutations](https://github.com/stuti760/DSA-Practice/tree/main/0046-permutations/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/stuti760/DSA-Practice/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/stuti760/DSA-Practice/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0198-house-robber](https://github.com/stuti760/DSA-Practice/tree/main/0198-house-robber/) | Medium |
@@ -109,4 +110,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0032-longest-valid-parentheses](https://github.com/stuti760/DSA-Practice/tree/main/0032-longest-valid-parentheses/) | Hard |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0046-permutations](https://github.com/stuti760/DSA-Practice/tree/main/0046-permutations/) | Medium |
 <!---LeetCode Topics End-->
