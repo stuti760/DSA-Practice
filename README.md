@@ -26,6 +26,7 @@
 | [0001-two-sum](https://github.com/stuti760/DSA-Practice/tree/main/0001-two-sum/) | Easy |
 | [0012-integer-to-roman](https://github.com/stuti760/DSA-Practice/tree/main/0012-integer-to-roman/) | Medium |
 | [0013-roman-to-integer](https://github.com/stuti760/DSA-Practice/tree/main/0013-roman-to-integer/) | Easy |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/stuti760/DSA-Practice/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0041-first-missing-positive](https://github.com/stuti760/DSA-Practice/tree/main/0041-first-missing-positive/) | Hard |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/stuti760/DSA-Practice/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/stuti760/DSA-Practice/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
@@ -72,6 +73,7 @@
 | [0012-integer-to-roman](https://github.com/stuti760/DSA-Practice/tree/main/0012-integer-to-roman/) | Medium |
 | [0013-roman-to-integer](https://github.com/stuti760/DSA-Practice/tree/main/0013-roman-to-integer/) | Easy |
 | [0014-longest-common-prefix](https://github.com/stuti760/DSA-Practice/tree/main/0014-longest-common-prefix/) | Easy |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/stuti760/DSA-Practice/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0032-longest-valid-parentheses](https://github.com/stuti760/DSA-Practice/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/stuti760/DSA-Practice/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 ## Dynamic Programming
@@ -122,6 +124,7 @@
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/stuti760/DSA-Practice/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0046-permutations](https://github.com/stuti760/DSA-Practice/tree/main/0046-permutations/) | Medium |
 | [0047-permutations-ii](https://github.com/stuti760/DSA-Practice/tree/main/0047-permutations-ii/) | Medium |
 ## Enumeration
