@@ -15,6 +15,7 @@
 | [0041-first-missing-positive](https://github.com/stuti760/DSA-Practice/tree/main/0041-first-missing-positive/) | Hard |
 | [0046-permutations](https://github.com/stuti760/DSA-Practice/tree/main/0046-permutations/) | Medium |
 | [0047-permutations-ii](https://github.com/stuti760/DSA-Practice/tree/main/0047-permutations-ii/) | Medium |
+| [0066-plus-one](https://github.com/stuti760/DSA-Practice/tree/main/0066-plus-one/) | Easy |
 | [0074-search-a-2d-matrix](https://github.com/stuti760/DSA-Practice/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/stuti760/DSA-Practice/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/stuti760/DSA-Practice/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
@@ -47,6 +48,7 @@
 | [0009-palindrome-number](https://github.com/stuti760/DSA-Practice/tree/main/0009-palindrome-number/) | Easy |
 | [0012-integer-to-roman](https://github.com/stuti760/DSA-Practice/tree/main/0012-integer-to-roman/) | Medium |
 | [0013-roman-to-integer](https://github.com/stuti760/DSA-Practice/tree/main/0013-roman-to-integer/) | Easy |
+| [0066-plus-one](https://github.com/stuti760/DSA-Practice/tree/main/0066-plus-one/) | Easy |
 | [0070-climbing-stairs](https://github.com/stuti760/DSA-Practice/tree/main/0070-climbing-stairs/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
