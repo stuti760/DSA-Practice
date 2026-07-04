@@ -51,12 +51,14 @@
 | [0066-plus-one](https://github.com/stuti760/DSA-Practice/tree/main/0066-plus-one/) | Easy |
 | [0067-add-binary](https://github.com/stuti760/DSA-Practice/tree/main/0067-add-binary/) | Easy |
 | [0070-climbing-stairs](https://github.com/stuti760/DSA-Practice/tree/main/0070-climbing-stairs/) | Easy |
+| [0509-fibonacci-number](https://github.com/stuti760/DSA-Practice/tree/main/0509-fibonacci-number/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/stuti760/DSA-Practice/tree/main/0002-add-two-numbers/) | Medium |
 | [0010-regular-expression-matching](https://github.com/stuti760/DSA-Practice/tree/main/0010-regular-expression-matching/) | Hard |
 | [0021-merge-two-sorted-lists](https://github.com/stuti760/DSA-Practice/tree/main/0021-merge-two-sorted-lists/) | Easy |
+| [0509-fibonacci-number](https://github.com/stuti760/DSA-Practice/tree/main/0509-fibonacci-number/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -102,6 +104,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/stuti760/DSA-Practice/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/stuti760/DSA-Practice/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0198-house-robber](https://github.com/stuti760/DSA-Practice/tree/main/0198-house-robber/) | Medium |
+| [0509-fibonacci-number](https://github.com/stuti760/DSA-Practice/tree/main/0509-fibonacci-number/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -122,6 +125,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/stuti760/DSA-Practice/tree/main/0070-climbing-stairs/) | Easy |
+| [0509-fibonacci-number](https://github.com/stuti760/DSA-Practice/tree/main/0509-fibonacci-number/) | Easy |
 ## Segment Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
