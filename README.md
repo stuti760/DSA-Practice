@@ -51,6 +51,7 @@
 | [0009-palindrome-number](https://github.com/stuti760/DSA-Practice/tree/main/0009-palindrome-number/) | Easy |
 | [0012-integer-to-roman](https://github.com/stuti760/DSA-Practice/tree/main/0012-integer-to-roman/) | Medium |
 | [0013-roman-to-integer](https://github.com/stuti760/DSA-Practice/tree/main/0013-roman-to-integer/) | Easy |
+| [0029-divide-two-integers](https://github.com/stuti760/DSA-Practice/tree/main/0029-divide-two-integers/) | Medium |
 | [0066-plus-one](https://github.com/stuti760/DSA-Practice/tree/main/0066-plus-one/) | Easy |
 | [0067-add-binary](https://github.com/stuti760/DSA-Practice/tree/main/0067-add-binary/) | Easy |
 | [0070-climbing-stairs](https://github.com/stuti760/DSA-Practice/tree/main/0070-climbing-stairs/) | Easy |
@@ -188,6 +189,7 @@
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0029-divide-two-integers](https://github.com/stuti760/DSA-Practice/tree/main/0029-divide-two-integers/) | Medium |
 | [0067-add-binary](https://github.com/stuti760/DSA-Practice/tree/main/0067-add-binary/) | Easy |
 | [0779-k-th-symbol-in-grammar](https://github.com/stuti760/DSA-Practice/tree/main/0779-k-th-symbol-in-grammar/) | Medium |
 ## Simulation
