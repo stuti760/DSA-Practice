@@ -45,6 +45,7 @@
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/stuti760/DSA-Practice/tree/main/0002-add-two-numbers/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/stuti760/DSA-Practice/tree/main/0021-merge-two-sorted-lists/) | Easy |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/stuti760/DSA-Practice/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -155,6 +156,7 @@
 | ------- | ------- |
 | [0032-longest-valid-parentheses](https://github.com/stuti760/DSA-Practice/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0094-binary-tree-inorder-traversal](https://github.com/stuti760/DSA-Practice/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/stuti760/DSA-Practice/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -205,6 +207,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/stuti760/DSA-Practice/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/stuti760/DSA-Practice/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/stuti760/DSA-Practice/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
@@ -214,8 +217,10 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/stuti760/DSA-Practice/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/stuti760/DSA-Practice/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/stuti760/DSA-Practice/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/stuti760/DSA-Practice/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 <!---LeetCode Topics End-->
