@@ -27,6 +27,7 @@
 | [0164-maximum-gap](https://github.com/stuti760/DSA-Practice/tree/main/0164-maximum-gap/) | Medium |
 | [0179-largest-number](https://github.com/stuti760/DSA-Practice/tree/main/0179-largest-number/) | Medium |
 | [0198-house-robber](https://github.com/stuti760/DSA-Practice/tree/main/0198-house-robber/) | Medium |
+| [0215-kth-largest-element-in-an-array](https://github.com/stuti760/DSA-Practice/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [1301-number-of-paths-with-max-score](https://github.com/stuti760/DSA-Practice/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1331-rank-transform-of-an-array](https://github.com/stuti760/DSA-Practice/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/stuti760/DSA-Practice/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
@@ -90,6 +91,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/stuti760/DSA-Practice/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+| [0215-kth-largest-element-in-an-array](https://github.com/stuti760/DSA-Practice/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/stuti760/DSA-Practice/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -153,6 +155,7 @@
 | [0047-permutations-ii](https://github.com/stuti760/DSA-Practice/tree/main/0047-permutations-ii/) | Medium |
 | [0164-maximum-gap](https://github.com/stuti760/DSA-Practice/tree/main/0164-maximum-gap/) | Medium |
 | [0179-largest-number](https://github.com/stuti760/DSA-Practice/tree/main/0179-largest-number/) | Medium |
+| [0215-kth-largest-element-in-an-array](https://github.com/stuti760/DSA-Practice/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/stuti760/DSA-Practice/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/stuti760/DSA-Practice/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 ## Memoization
@@ -215,6 +218,7 @@
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/stuti760/DSA-Practice/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/stuti760/DSA-Practice/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
@@ -275,4 +279,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0164-maximum-gap](https://github.com/stuti760/DSA-Practice/tree/main/0164-maximum-gap/) | Medium |
+## Quickselect
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/stuti760/DSA-Practice/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 <!---LeetCode Topics End-->
