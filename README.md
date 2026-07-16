@@ -62,6 +62,7 @@
 | [1331-rank-transform-of-an-array](https://github.com/stuti760/DSA-Practice/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/stuti760/DSA-Practice/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1399-count-largest-group](https://github.com/stuti760/DSA-Practice/tree/main/1399-count-largest-group/) | Easy |
+| [1742-maximum-number-of-balls-in-a-box](https://github.com/stuti760/DSA-Practice/tree/main/1742-maximum-number-of-balls-in-a-box/) | Easy |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/stuti760/DSA-Practice/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/stuti760/DSA-Practice/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
 ## Linked List
@@ -105,6 +106,7 @@
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/stuti760/DSA-Practice/tree/main/1588-sum-of-all-odd-length-subarrays/) | Easy |
 | [1688-count-of-matches-in-tournament](https://github.com/stuti760/DSA-Practice/tree/main/1688-count-of-matches-in-tournament/) | Easy |
 | [1716-calculate-money-in-leetcode-bank](https://github.com/stuti760/DSA-Practice/tree/main/1716-calculate-money-in-leetcode-bank/) | Easy |
+| [1742-maximum-number-of-balls-in-a-box](https://github.com/stuti760/DSA-Practice/tree/main/1742-maximum-number-of-balls-in-a-box/) | Easy |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/stuti760/DSA-Practice/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/stuti760/DSA-Practice/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/stuti760/DSA-Practice/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
@@ -364,4 +366,5 @@
 | [0229-majority-element-ii](https://github.com/stuti760/DSA-Practice/tree/main/0229-majority-element-ii/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/stuti760/DSA-Practice/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [1399-count-largest-group](https://github.com/stuti760/DSA-Practice/tree/main/1399-count-largest-group/) | Easy |
+| [1742-maximum-number-of-balls-in-a-box](https://github.com/stuti760/DSA-Practice/tree/main/1742-maximum-number-of-balls-in-a-box/) | Easy |
 <!---LeetCode Topics End-->
