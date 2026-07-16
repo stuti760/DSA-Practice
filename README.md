@@ -40,6 +40,7 @@
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/stuti760/DSA-Practice/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/stuti760/DSA-Practice/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/stuti760/DSA-Practice/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/stuti760/DSA-Practice/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -79,6 +80,7 @@
 | [0779-k-th-symbol-in-grammar](https://github.com/stuti760/DSA-Practice/tree/main/0779-k-th-symbol-in-grammar/) | Medium |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/stuti760/DSA-Practice/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/stuti760/DSA-Practice/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/stuti760/DSA-Practice/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -113,6 +115,7 @@
 | [0015-3sum](https://github.com/stuti760/DSA-Practice/tree/main/0015-3sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/stuti760/DSA-Practice/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/stuti760/DSA-Practice/tree/main/0027-remove-element/) | Easy |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/stuti760/DSA-Practice/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -174,6 +177,7 @@
 | [1331-rank-transform-of-an-array](https://github.com/stuti760/DSA-Practice/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1552-magnetic-force-between-two-balls](https://github.com/stuti760/DSA-Practice/tree/main/1552-magnetic-force-between-two-balls/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/stuti760/DSA-Practice/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/stuti760/DSA-Practice/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -247,6 +251,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0067-add-binary](https://github.com/stuti760/DSA-Practice/tree/main/0067-add-binary/) | Easy |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/stuti760/DSA-Practice/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -288,6 +293,7 @@
 | ------- | ------- |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/stuti760/DSA-Practice/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/stuti760/DSA-Practice/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/stuti760/DSA-Practice/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Bucket Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
