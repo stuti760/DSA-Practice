@@ -107,6 +107,7 @@
 | [1688-count-of-matches-in-tournament](https://github.com/stuti760/DSA-Practice/tree/main/1688-count-of-matches-in-tournament/) | Easy |
 | [1716-calculate-money-in-leetcode-bank](https://github.com/stuti760/DSA-Practice/tree/main/1716-calculate-money-in-leetcode-bank/) | Easy |
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/stuti760/DSA-Practice/tree/main/1742-maximum-number-of-balls-in-a-box/) | Easy |
+| [1812-determine-color-of-a-chessboard-square](https://github.com/stuti760/DSA-Practice/tree/main/1812-determine-color-of-a-chessboard-square/) | Easy |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/stuti760/DSA-Practice/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/stuti760/DSA-Practice/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/stuti760/DSA-Practice/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
@@ -170,6 +171,7 @@
 | [0415-add-strings](https://github.com/stuti760/DSA-Practice/tree/main/0415-add-strings/) | Easy |
 | [0504-base-7](https://github.com/stuti760/DSA-Practice/tree/main/0504-base-7/) | Easy |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/stuti760/DSA-Practice/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
+| [1812-determine-color-of-a-chessboard-square](https://github.com/stuti760/DSA-Practice/tree/main/1812-determine-color-of-a-chessboard-square/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
