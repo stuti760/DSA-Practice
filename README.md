@@ -31,6 +31,7 @@
 | [0217-contains-duplicate](https://github.com/stuti760/DSA-Practice/tree/main/0217-contains-duplicate/) | Easy |
 | [0229-majority-element-ii](https://github.com/stuti760/DSA-Practice/tree/main/0229-majority-element-ii/) | Medium |
 | [0268-missing-number](https://github.com/stuti760/DSA-Practice/tree/main/0268-missing-number/) | Easy |
+| [0347-top-k-frequent-elements](https://github.com/stuti760/DSA-Practice/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/stuti760/DSA-Practice/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
 | [1301-number-of-paths-with-max-score](https://github.com/stuti760/DSA-Practice/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1331-rank-transform-of-an-array](https://github.com/stuti760/DSA-Practice/tree/main/1331-rank-transform-of-an-array/) | Easy |
@@ -53,6 +54,7 @@
 | [0229-majority-element-ii](https://github.com/stuti760/DSA-Practice/tree/main/0229-majority-element-ii/) | Medium |
 | [0264-ugly-number-ii](https://github.com/stuti760/DSA-Practice/tree/main/0264-ugly-number-ii/) | Medium |
 | [0268-missing-number](https://github.com/stuti760/DSA-Practice/tree/main/0268-missing-number/) | Easy |
+| [0347-top-k-frequent-elements](https://github.com/stuti760/DSA-Practice/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/stuti760/DSA-Practice/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/stuti760/DSA-Practice/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/stuti760/DSA-Practice/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
@@ -108,6 +110,7 @@
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/stuti760/DSA-Practice/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0215-kth-largest-element-in-an-array](https://github.com/stuti760/DSA-Practice/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0347-top-k-frequent-elements](https://github.com/stuti760/DSA-Practice/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/stuti760/DSA-Practice/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -177,6 +180,7 @@
 | [0217-contains-duplicate](https://github.com/stuti760/DSA-Practice/tree/main/0217-contains-duplicate/) | Easy |
 | [0229-majority-element-ii](https://github.com/stuti760/DSA-Practice/tree/main/0229-majority-element-ii/) | Medium |
 | [0268-missing-number](https://github.com/stuti760/DSA-Practice/tree/main/0268-missing-number/) | Easy |
+| [0347-top-k-frequent-elements](https://github.com/stuti760/DSA-Practice/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/stuti760/DSA-Practice/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1552-magnetic-force-between-two-balls](https://github.com/stuti760/DSA-Practice/tree/main/1552-magnetic-force-between-two-balls/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/stuti760/DSA-Practice/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
@@ -243,6 +247,7 @@
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/stuti760/DSA-Practice/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0264-ugly-number-ii](https://github.com/stuti760/DSA-Practice/tree/main/0264-ugly-number-ii/) | Medium |
+| [0347-top-k-frequent-elements](https://github.com/stuti760/DSA-Practice/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/stuti760/DSA-Practice/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
@@ -302,6 +307,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0164-maximum-gap](https://github.com/stuti760/DSA-Practice/tree/main/0164-maximum-gap/) | Medium |
+| [0347-top-k-frequent-elements](https://github.com/stuti760/DSA-Practice/tree/main/0347-top-k-frequent-elements/) | Medium |
 ## Radix Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -310,8 +316,10 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/stuti760/DSA-Practice/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0347-top-k-frequent-elements](https://github.com/stuti760/DSA-Practice/tree/main/0347-top-k-frequent-elements/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0229-majority-element-ii](https://github.com/stuti760/DSA-Practice/tree/main/0229-majority-element-ii/) | Medium |
+| [0347-top-k-frequent-elements](https://github.com/stuti760/DSA-Practice/tree/main/0347-top-k-frequent-elements/) | Medium |
 <!---LeetCode Topics End-->
