@@ -38,6 +38,7 @@
 | [1301-number-of-paths-with-max-score](https://github.com/stuti760/DSA-Practice/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1331-rank-transform-of-an-array](https://github.com/stuti760/DSA-Practice/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1552-magnetic-force-between-two-balls](https://github.com/stuti760/DSA-Practice/tree/main/1552-magnetic-force-between-two-balls/) | Medium |
+| [1588-sum-of-all-odd-length-subarrays](https://github.com/stuti760/DSA-Practice/tree/main/1588-sum-of-all-odd-length-subarrays/) | Easy |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/stuti760/DSA-Practice/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/stuti760/DSA-Practice/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/stuti760/DSA-Practice/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
@@ -101,6 +102,7 @@
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/stuti760/DSA-Practice/tree/main/0762-prime-number-of-set-bits-in-binary-representation/) | Easy |
 | [0779-k-th-symbol-in-grammar](https://github.com/stuti760/DSA-Practice/tree/main/0779-k-th-symbol-in-grammar/) | Medium |
 | [1399-count-largest-group](https://github.com/stuti760/DSA-Practice/tree/main/1399-count-largest-group/) | Easy |
+| [1588-sum-of-all-odd-length-subarrays](https://github.com/stuti760/DSA-Practice/tree/main/1588-sum-of-all-odd-length-subarrays/) | Easy |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/stuti760/DSA-Practice/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/stuti760/DSA-Practice/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/stuti760/DSA-Practice/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
@@ -228,6 +230,7 @@
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1588-sum-of-all-odd-length-subarrays](https://github.com/stuti760/DSA-Practice/tree/main/1588-sum-of-all-odd-length-subarrays/) | Easy |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/stuti760/DSA-Practice/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
 ## Stack
 | Problem Name | Difficulty |
