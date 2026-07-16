@@ -28,6 +28,7 @@
 | [0164-maximum-gap](https://github.com/stuti760/DSA-Practice/tree/main/0164-maximum-gap/) | Medium |
 | [0179-largest-number](https://github.com/stuti760/DSA-Practice/tree/main/0179-largest-number/) | Medium |
 | [0198-house-robber](https://github.com/stuti760/DSA-Practice/tree/main/0198-house-robber/) | Medium |
+| [0204-count-primes](https://github.com/stuti760/DSA-Practice/tree/main/0204-count-primes/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/stuti760/DSA-Practice/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/stuti760/DSA-Practice/tree/main/0217-contains-duplicate/) | Easy |
 | [0229-majority-element-ii](https://github.com/stuti760/DSA-Practice/tree/main/0229-majority-element-ii/) | Medium |
@@ -84,6 +85,7 @@
 | [0168-excel-sheet-column-title](https://github.com/stuti760/DSA-Practice/tree/main/0168-excel-sheet-column-title/) | Easy |
 | [0171-excel-sheet-column-number](https://github.com/stuti760/DSA-Practice/tree/main/0171-excel-sheet-column-number/) | Easy |
 | [0202-happy-number](https://github.com/stuti760/DSA-Practice/tree/main/0202-happy-number/) | Easy |
+| [0204-count-primes](https://github.com/stuti760/DSA-Practice/tree/main/0204-count-primes/) | Medium |
 | [0264-ugly-number-ii](https://github.com/stuti760/DSA-Practice/tree/main/0264-ugly-number-ii/) | Medium |
 | [0268-missing-number](https://github.com/stuti760/DSA-Practice/tree/main/0268-missing-number/) | Easy |
 | [0509-fibonacci-number](https://github.com/stuti760/DSA-Practice/tree/main/0509-fibonacci-number/) | Easy |
@@ -229,6 +231,7 @@
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0204-count-primes](https://github.com/stuti760/DSA-Practice/tree/main/0204-count-primes/) | Medium |
 | [1291-sequential-digits](https://github.com/stuti760/DSA-Practice/tree/main/1291-sequential-digits/) | Medium |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/stuti760/DSA-Practice/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 ## Sliding Window
@@ -310,6 +313,7 @@
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0204-count-primes](https://github.com/stuti760/DSA-Practice/tree/main/0204-count-primes/) | Medium |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/stuti760/DSA-Practice/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/stuti760/DSA-Practice/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/stuti760/DSA-Practice/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
