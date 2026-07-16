@@ -51,6 +51,7 @@
 | [0013-roman-to-integer](https://github.com/stuti760/DSA-Practice/tree/main/0013-roman-to-integer/) | Easy |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/stuti760/DSA-Practice/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0041-first-missing-positive](https://github.com/stuti760/DSA-Practice/tree/main/0041-first-missing-positive/) | Hard |
+| [0202-happy-number](https://github.com/stuti760/DSA-Practice/tree/main/0202-happy-number/) | Easy |
 | [0217-contains-duplicate](https://github.com/stuti760/DSA-Practice/tree/main/0217-contains-duplicate/) | Easy |
 | [0229-majority-element-ii](https://github.com/stuti760/DSA-Practice/tree/main/0229-majority-element-ii/) | Medium |
 | [0264-ugly-number-ii](https://github.com/stuti760/DSA-Practice/tree/main/0264-ugly-number-ii/) | Medium |
@@ -82,6 +83,7 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/stuti760/DSA-Practice/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0168-excel-sheet-column-title](https://github.com/stuti760/DSA-Practice/tree/main/0168-excel-sheet-column-title/) | Easy |
 | [0171-excel-sheet-column-number](https://github.com/stuti760/DSA-Practice/tree/main/0171-excel-sheet-column-number/) | Easy |
+| [0202-happy-number](https://github.com/stuti760/DSA-Practice/tree/main/0202-happy-number/) | Easy |
 | [0264-ugly-number-ii](https://github.com/stuti760/DSA-Practice/tree/main/0264-ugly-number-ii/) | Medium |
 | [0268-missing-number](https://github.com/stuti760/DSA-Practice/tree/main/0268-missing-number/) | Easy |
 | [0509-fibonacci-number](https://github.com/stuti760/DSA-Practice/tree/main/0509-fibonacci-number/) | Easy |
@@ -124,6 +126,7 @@
 | [0015-3sum](https://github.com/stuti760/DSA-Practice/tree/main/0015-3sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/stuti760/DSA-Practice/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/stuti760/DSA-Practice/tree/main/0027-remove-element/) | Easy |
+| [0202-happy-number](https://github.com/stuti760/DSA-Practice/tree/main/0202-happy-number/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/stuti760/DSA-Practice/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## String
 | Problem Name | Difficulty |
