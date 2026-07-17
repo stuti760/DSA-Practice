@@ -40,6 +40,7 @@
 | [0334-increasing-triplet-subsequence](https://github.com/stuti760/DSA-Practice/tree/main/0334-increasing-triplet-subsequence/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/stuti760/DSA-Practice/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0368-largest-divisible-subset](https://github.com/stuti760/DSA-Practice/tree/main/0368-largest-divisible-subset/) | Medium |
+| [0436-find-right-interval](https://github.com/stuti760/DSA-Practice/tree/main/0436-find-right-interval/) | Medium |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/stuti760/DSA-Practice/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
 | [1301-number-of-paths-with-max-score](https://github.com/stuti760/DSA-Practice/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1331-rank-transform-of-an-array](https://github.com/stuti760/DSA-Practice/tree/main/1331-rank-transform-of-an-array/) | Easy |
@@ -151,6 +152,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/stuti760/DSA-Practice/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0268-missing-number](https://github.com/stuti760/DSA-Practice/tree/main/0268-missing-number/) | Easy |
 | [0367-valid-perfect-square](https://github.com/stuti760/DSA-Practice/tree/main/0367-valid-perfect-square/) | Easy |
+| [0436-find-right-interval](https://github.com/stuti760/DSA-Practice/tree/main/0436-find-right-interval/) | Medium |
 | [0441-arranging-coins](https://github.com/stuti760/DSA-Practice/tree/main/0441-arranging-coins/) | Easy |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/stuti760/DSA-Practice/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
 | [1552-magnetic-force-between-two-balls](https://github.com/stuti760/DSA-Practice/tree/main/1552-magnetic-force-between-two-balls/) | Medium |
@@ -247,6 +249,7 @@
 | [0268-missing-number](https://github.com/stuti760/DSA-Practice/tree/main/0268-missing-number/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/stuti760/DSA-Practice/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0368-largest-divisible-subset](https://github.com/stuti760/DSA-Practice/tree/main/0368-largest-divisible-subset/) | Medium |
+| [0436-find-right-interval](https://github.com/stuti760/DSA-Practice/tree/main/0436-find-right-interval/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/stuti760/DSA-Practice/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1552-magnetic-force-between-two-balls](https://github.com/stuti760/DSA-Practice/tree/main/1552-magnetic-force-between-two-balls/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/stuti760/DSA-Practice/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
