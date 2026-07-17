@@ -42,6 +42,7 @@
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/stuti760/DSA-Practice/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/stuti760/DSA-Practice/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/stuti760/DSA-Practice/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
+| [3312-sorted-gcd-pair-queries](https://github.com/stuti760/DSA-Practice/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/stuti760/DSA-Practice/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/stuti760/DSA-Practice/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/stuti760/DSA-Practice/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
@@ -64,6 +65,7 @@
 | [1399-count-largest-group](https://github.com/stuti760/DSA-Practice/tree/main/1399-count-largest-group/) | Easy |
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/stuti760/DSA-Practice/tree/main/1742-maximum-number-of-balls-in-a-box/) | Easy |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/stuti760/DSA-Practice/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
+| [3312-sorted-gcd-pair-queries](https://github.com/stuti760/DSA-Practice/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/stuti760/DSA-Practice/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
 ## Linked List
 | Problem Name | Difficulty |
@@ -110,6 +112,7 @@
 | [1812-determine-color-of-a-chessboard-square](https://github.com/stuti760/DSA-Practice/tree/main/1812-determine-color-of-a-chessboard-square/) | Easy |
 | [2180-count-integers-with-even-digit-sum](https://github.com/stuti760/DSA-Practice/tree/main/2180-count-integers-with-even-digit-sum/) | Easy |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/stuti760/DSA-Practice/tree/main/2269-find-the-k-beauty-of-a-number/) | Easy |
+| [3312-sorted-gcd-pair-queries](https://github.com/stuti760/DSA-Practice/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/stuti760/DSA-Practice/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/stuti760/DSA-Practice/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/stuti760/DSA-Practice/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
@@ -134,6 +137,7 @@
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/stuti760/DSA-Practice/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
 | [1552-magnetic-force-between-two-balls](https://github.com/stuti760/DSA-Practice/tree/main/1552-magnetic-force-between-two-balls/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/stuti760/DSA-Practice/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
+| [3312-sorted-gcd-pair-queries](https://github.com/stuti760/DSA-Practice/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -240,6 +244,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/stuti760/DSA-Practice/tree/main/1588-sum-of-all-odd-length-subarrays/) | Easy |
+| [3312-sorted-gcd-pair-queries](https://github.com/stuti760/DSA-Practice/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/stuti760/DSA-Practice/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
 ## Stack
 | Problem Name | Difficulty |
@@ -350,6 +355,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0204-count-primes](https://github.com/stuti760/DSA-Practice/tree/main/0204-count-primes/) | Medium |
+| [3312-sorted-gcd-pair-queries](https://github.com/stuti760/DSA-Practice/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/stuti760/DSA-Practice/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/stuti760/DSA-Practice/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/stuti760/DSA-Practice/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
@@ -374,4 +380,9 @@
 | [0347-top-k-frequent-elements](https://github.com/stuti760/DSA-Practice/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [1399-count-largest-group](https://github.com/stuti760/DSA-Practice/tree/main/1399-count-largest-group/) | Easy |
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/stuti760/DSA-Practice/tree/main/1742-maximum-number-of-balls-in-a-box/) | Easy |
+| [3312-sorted-gcd-pair-queries](https://github.com/stuti760/DSA-Practice/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
+## Combinatorics
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/stuti760/DSA-Practice/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 <!---LeetCode Topics End-->
