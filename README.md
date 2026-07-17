@@ -101,6 +101,7 @@
 | [0342-power-of-four](https://github.com/stuti760/DSA-Practice/tree/main/0342-power-of-four/) | Easy |
 | [0367-valid-perfect-square](https://github.com/stuti760/DSA-Practice/tree/main/0367-valid-perfect-square/) | Easy |
 | [0368-largest-divisible-subset](https://github.com/stuti760/DSA-Practice/tree/main/0368-largest-divisible-subset/) | Medium |
+| [0375-guess-number-higher-or-lower-ii](https://github.com/stuti760/DSA-Practice/tree/main/0375-guess-number-higher-or-lower-ii/) | Medium |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/stuti760/DSA-Practice/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy |
 | [0412-fizz-buzz](https://github.com/stuti760/DSA-Practice/tree/main/0412-fizz-buzz/) | Easy |
 | [0415-add-strings](https://github.com/stuti760/DSA-Practice/tree/main/0415-add-strings/) | Easy |
@@ -207,6 +208,7 @@
 | [0198-house-robber](https://github.com/stuti760/DSA-Practice/tree/main/0198-house-robber/) | Medium |
 | [0264-ugly-number-ii](https://github.com/stuti760/DSA-Practice/tree/main/0264-ugly-number-ii/) | Medium |
 | [0368-largest-divisible-subset](https://github.com/stuti760/DSA-Practice/tree/main/0368-largest-divisible-subset/) | Medium |
+| [0375-guess-number-higher-or-lower-ii](https://github.com/stuti760/DSA-Practice/tree/main/0375-guess-number-higher-or-lower-ii/) | Medium |
 | [0509-fibonacci-number](https://github.com/stuti760/DSA-Practice/tree/main/0509-fibonacci-number/) | Easy |
 | [1301-number-of-paths-with-max-score](https://github.com/stuti760/DSA-Practice/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/stuti760/DSA-Practice/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
@@ -406,4 +408,5 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0292-nim-game](https://github.com/stuti760/DSA-Practice/tree/main/0292-nim-game/) | Easy |
+| [0375-guess-number-higher-or-lower-ii](https://github.com/stuti760/DSA-Practice/tree/main/0375-guess-number-higher-or-lower-ii/) | Medium |
 <!---LeetCode Topics End-->
