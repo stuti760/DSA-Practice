@@ -27,6 +27,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/stuti760/DSA-Practice/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0150-evaluate-reverse-polish-notation](https://github.com/stuti760/DSA-Practice/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/stuti760/DSA-Practice/tree/main/0152-maximum-product-subarray/) | Medium |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/stuti760/DSA-Practice/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0164-maximum-gap](https://github.com/stuti760/DSA-Practice/tree/main/0164-maximum-gap/) | Medium |
 | [0179-largest-number](https://github.com/stuti760/DSA-Practice/tree/main/0179-largest-number/) | Medium |
 | [0198-house-robber](https://github.com/stuti760/DSA-Practice/tree/main/0198-house-robber/) | Medium |
@@ -144,6 +145,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/stuti760/DSA-Practice/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/stuti760/DSA-Practice/tree/main/0035-search-insert-position/) | Easy |
 | [0074-search-a-2d-matrix](https://github.com/stuti760/DSA-Practice/tree/main/0074-search-a-2d-matrix/) | Medium |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/stuti760/DSA-Practice/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0268-missing-number](https://github.com/stuti760/DSA-Practice/tree/main/0268-missing-number/) | Easy |
 | [0367-valid-perfect-square](https://github.com/stuti760/DSA-Practice/tree/main/0367-valid-perfect-square/) | Easy |
 | [0441-arranging-coins](https://github.com/stuti760/DSA-Practice/tree/main/0441-arranging-coins/) | Easy |
