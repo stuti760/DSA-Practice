@@ -43,6 +43,7 @@
 | [0436-find-right-interval](https://github.com/stuti760/DSA-Practice/tree/main/0436-find-right-interval/) | Medium |
 | [0661-image-smoother](https://github.com/stuti760/DSA-Practice/tree/main/0661-image-smoother/) | Easy |
 | [0665-non-decreasing-array](https://github.com/stuti760/DSA-Practice/tree/main/0665-non-decreasing-array/) | Medium |
+| [0682-baseball-game](https://github.com/stuti760/DSA-Practice/tree/main/0682-baseball-game/) | Easy |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/stuti760/DSA-Practice/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
 | [1301-number-of-paths-with-max-score](https://github.com/stuti760/DSA-Practice/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1331-rank-transform-of-an-array](https://github.com/stuti760/DSA-Practice/tree/main/1331-rank-transform-of-an-array/) | Easy |
@@ -285,6 +286,7 @@
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/stuti760/DSA-Practice/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0150-evaluate-reverse-polish-notation](https://github.com/stuti760/DSA-Practice/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0445-add-two-numbers-ii](https://github.com/stuti760/DSA-Practice/tree/main/0445-add-two-numbers-ii/) | Medium |
+| [0682-baseball-game](https://github.com/stuti760/DSA-Practice/tree/main/0682-baseball-game/) | Easy |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -346,6 +348,7 @@
 | [0067-add-binary](https://github.com/stuti760/DSA-Practice/tree/main/0067-add-binary/) | Easy |
 | [0412-fizz-buzz](https://github.com/stuti760/DSA-Practice/tree/main/0412-fizz-buzz/) | Easy |
 | [0415-add-strings](https://github.com/stuti760/DSA-Practice/tree/main/0415-add-strings/) | Easy |
+| [0682-baseball-game](https://github.com/stuti760/DSA-Practice/tree/main/0682-baseball-game/) | Easy |
 | [1688-count-of-matches-in-tournament](https://github.com/stuti760/DSA-Practice/tree/main/1688-count-of-matches-in-tournament/) | Easy |
 | [2180-count-integers-with-even-digit-sum](https://github.com/stuti760/DSA-Practice/tree/main/2180-count-integers-with-even-digit-sum/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/stuti760/DSA-Practice/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
