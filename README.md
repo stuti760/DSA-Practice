@@ -297,6 +297,7 @@
 | [0022-generate-parentheses](https://github.com/stuti760/DSA-Practice/tree/main/0022-generate-parentheses/) | Medium |
 | [0046-permutations](https://github.com/stuti760/DSA-Practice/tree/main/0046-permutations/) | Medium |
 | [0047-permutations-ii](https://github.com/stuti760/DSA-Practice/tree/main/0047-permutations-ii/) | Medium |
+| [0077-combinations](https://github.com/stuti760/DSA-Practice/tree/main/0077-combinations/) | Medium |
 | [0095-unique-binary-search-trees-ii](https://github.com/stuti760/DSA-Practice/tree/main/0095-unique-binary-search-trees-ii/) | Medium |
 ## Enumeration
 | Problem Name | Difficulty |
