@@ -102,6 +102,7 @@
 | [0048-rotate-image](https://github.com/stuti760/DSA-Practice/tree/main/0048-rotate-image/) | Medium |
 | [0066-plus-one](https://github.com/stuti760/DSA-Practice/tree/main/0066-plus-one/) | Easy |
 | [0067-add-binary](https://github.com/stuti760/DSA-Practice/tree/main/0067-add-binary/) | Easy |
+| [0069-sqrtx](https://github.com/stuti760/DSA-Practice/tree/main/0069-sqrtx/) | Easy |
 | [0070-climbing-stairs](https://github.com/stuti760/DSA-Practice/tree/main/0070-climbing-stairs/) | Easy |
 | [0096-unique-binary-search-trees](https://github.com/stuti760/DSA-Practice/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0150-evaluate-reverse-polish-notation](https://github.com/stuti760/DSA-Practice/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
@@ -157,6 +158,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/stuti760/DSA-Practice/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/stuti760/DSA-Practice/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/stuti760/DSA-Practice/tree/main/0035-search-insert-position/) | Easy |
+| [0069-sqrtx](https://github.com/stuti760/DSA-Practice/tree/main/0069-sqrtx/) | Easy |
 | [0074-search-a-2d-matrix](https://github.com/stuti760/DSA-Practice/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/stuti760/DSA-Practice/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/stuti760/DSA-Practice/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
