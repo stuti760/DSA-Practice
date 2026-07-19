@@ -26,6 +26,7 @@
 | [0120-triangle](https://github.com/stuti760/DSA-Practice/tree/main/0120-triangle/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/stuti760/DSA-Practice/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/stuti760/DSA-Practice/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
+| [0136-single-number](https://github.com/stuti760/DSA-Practice/tree/main/0136-single-number/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/stuti760/DSA-Practice/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/stuti760/DSA-Practice/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/stuti760/DSA-Practice/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
@@ -343,6 +344,7 @@
 | ------- | ------- |
 | [0029-divide-two-integers](https://github.com/stuti760/DSA-Practice/tree/main/0029-divide-two-integers/) | Medium |
 | [0067-add-binary](https://github.com/stuti760/DSA-Practice/tree/main/0067-add-binary/) | Easy |
+| [0136-single-number](https://github.com/stuti760/DSA-Practice/tree/main/0136-single-number/) | Easy |
 | [0268-missing-number](https://github.com/stuti760/DSA-Practice/tree/main/0268-missing-number/) | Easy |
 | [0342-power-of-four](https://github.com/stuti760/DSA-Practice/tree/main/0342-power-of-four/) | Easy |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/stuti760/DSA-Practice/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy |
