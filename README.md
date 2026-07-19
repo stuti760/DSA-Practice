@@ -171,6 +171,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/stuti760/DSA-Practice/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/stuti760/DSA-Practice/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0190-reverse-bits](https://github.com/stuti760/DSA-Practice/tree/main/0190-reverse-bits/) | Easy |
+| [0191-number-of-1-bits](https://github.com/stuti760/DSA-Practice/tree/main/0191-number-of-1-bits/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/stuti760/DSA-Practice/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/stuti760/DSA-Practice/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/stuti760/DSA-Practice/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
@@ -348,6 +349,7 @@
 | [0067-add-binary](https://github.com/stuti760/DSA-Practice/tree/main/0067-add-binary/) | Easy |
 | [0136-single-number](https://github.com/stuti760/DSA-Practice/tree/main/0136-single-number/) | Easy |
 | [0190-reverse-bits](https://github.com/stuti760/DSA-Practice/tree/main/0190-reverse-bits/) | Easy |
+| [0191-number-of-1-bits](https://github.com/stuti760/DSA-Practice/tree/main/0191-number-of-1-bits/) | Easy |
 | [0268-missing-number](https://github.com/stuti760/DSA-Practice/tree/main/0268-missing-number/) | Easy |
 | [0342-power-of-four](https://github.com/stuti760/DSA-Practice/tree/main/0342-power-of-four/) | Easy |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/stuti760/DSA-Practice/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy |
