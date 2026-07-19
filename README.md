@@ -86,6 +86,7 @@
 | [0002-add-two-numbers](https://github.com/stuti760/DSA-Practice/tree/main/0002-add-two-numbers/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/stuti760/DSA-Practice/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/stuti760/DSA-Practice/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
+| [0206-reverse-linked-list](https://github.com/stuti760/DSA-Practice/tree/main/0206-reverse-linked-list/) | Easy |
 | [0382-linked-list-random-node](https://github.com/stuti760/DSA-Practice/tree/main/0382-linked-list-random-node/) | Medium |
 | [0445-add-two-numbers-ii](https://github.com/stuti760/DSA-Practice/tree/main/0445-add-two-numbers-ii/) | Medium |
 ## Math
@@ -144,6 +145,7 @@
 | [0002-add-two-numbers](https://github.com/stuti760/DSA-Practice/tree/main/0002-add-two-numbers/) | Medium |
 | [0010-regular-expression-matching](https://github.com/stuti760/DSA-Practice/tree/main/0010-regular-expression-matching/) | Hard |
 | [0021-merge-two-sorted-lists](https://github.com/stuti760/DSA-Practice/tree/main/0021-merge-two-sorted-lists/) | Easy |
+| [0206-reverse-linked-list](https://github.com/stuti760/DSA-Practice/tree/main/0206-reverse-linked-list/) | Easy |
 | [0342-power-of-four](https://github.com/stuti760/DSA-Practice/tree/main/0342-power-of-four/) | Easy |
 | [0509-fibonacci-number](https://github.com/stuti760/DSA-Practice/tree/main/0509-fibonacci-number/) | Easy |
 | [0779-k-th-symbol-in-grammar](https://github.com/stuti760/DSA-Practice/tree/main/0779-k-th-symbol-in-grammar/) | Medium |
