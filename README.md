@@ -36,6 +36,7 @@
 | [0198-house-robber](https://github.com/stuti760/DSA-Practice/tree/main/0198-house-robber/) | Medium |
 | [0204-count-primes](https://github.com/stuti760/DSA-Practice/tree/main/0204-count-primes/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/stuti760/DSA-Practice/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0216-combination-sum-iii](https://github.com/stuti760/DSA-Practice/tree/main/0216-combination-sum-iii/) | Medium |
 | [0217-contains-duplicate](https://github.com/stuti760/DSA-Practice/tree/main/0217-contains-duplicate/) | Easy |
 | [0229-majority-element-ii](https://github.com/stuti760/DSA-Practice/tree/main/0229-majority-element-ii/) | Medium |
 | [0268-missing-number](https://github.com/stuti760/DSA-Practice/tree/main/0268-missing-number/) | Easy |
@@ -307,6 +308,7 @@
 | [0047-permutations-ii](https://github.com/stuti760/DSA-Practice/tree/main/0047-permutations-ii/) | Medium |
 | [0077-combinations](https://github.com/stuti760/DSA-Practice/tree/main/0077-combinations/) | Medium |
 | [0095-unique-binary-search-trees-ii](https://github.com/stuti760/DSA-Practice/tree/main/0095-unique-binary-search-trees-ii/) | Medium |
+| [0216-combination-sum-iii](https://github.com/stuti760/DSA-Practice/tree/main/0216-combination-sum-iii/) | Medium |
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
