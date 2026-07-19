@@ -204,6 +204,7 @@
 | [0022-generate-parentheses](https://github.com/stuti760/DSA-Practice/tree/main/0022-generate-parentheses/) | Medium |
 | [0032-longest-valid-parentheses](https://github.com/stuti760/DSA-Practice/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0067-add-binary](https://github.com/stuti760/DSA-Practice/tree/main/0067-add-binary/) | Easy |
+| [0091-decode-ways](https://github.com/stuti760/DSA-Practice/tree/main/0091-decode-ways/) | Medium |
 | [0097-interleaving-string](https://github.com/stuti760/DSA-Practice/tree/main/0097-interleaving-string/) | Medium |
 | [0168-excel-sheet-column-title](https://github.com/stuti760/DSA-Practice/tree/main/0168-excel-sheet-column-title/) | Easy |
 | [0171-excel-sheet-column-number](https://github.com/stuti760/DSA-Practice/tree/main/0171-excel-sheet-column-number/) | Easy |
@@ -224,6 +225,7 @@
 | [0022-generate-parentheses](https://github.com/stuti760/DSA-Practice/tree/main/0022-generate-parentheses/) | Medium |
 | [0032-longest-valid-parentheses](https://github.com/stuti760/DSA-Practice/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0070-climbing-stairs](https://github.com/stuti760/DSA-Practice/tree/main/0070-climbing-stairs/) | Easy |
+| [0091-decode-ways](https://github.com/stuti760/DSA-Practice/tree/main/0091-decode-ways/) | Medium |
 | [0095-unique-binary-search-trees-ii](https://github.com/stuti760/DSA-Practice/tree/main/0095-unique-binary-search-trees-ii/) | Medium |
 | [0096-unique-binary-search-trees](https://github.com/stuti760/DSA-Practice/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0097-interleaving-string](https://github.com/stuti760/DSA-Practice/tree/main/0097-interleaving-string/) | Medium |
