@@ -289,6 +289,7 @@
 | [0032-longest-valid-parentheses](https://github.com/stuti760/DSA-Practice/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0094-binary-tree-inorder-traversal](https://github.com/stuti760/DSA-Practice/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/stuti760/DSA-Practice/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
+| [0144-binary-tree-preorder-traversal](https://github.com/stuti760/DSA-Practice/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/stuti760/DSA-Practice/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0445-add-two-numbers-ii](https://github.com/stuti760/DSA-Practice/tree/main/0445-add-two-numbers-ii/) | Medium |
 | [0682-baseball-game](https://github.com/stuti760/DSA-Practice/tree/main/0682-baseball-game/) | Easy |
@@ -367,6 +368,7 @@
 | [0099-recover-binary-search-tree](https://github.com/stuti760/DSA-Practice/tree/main/0099-recover-binary-search-tree/) | Medium |
 | [0100-same-tree](https://github.com/stuti760/DSA-Practice/tree/main/0100-same-tree/) | Easy |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/stuti760/DSA-Practice/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
+| [0144-binary-tree-preorder-traversal](https://github.com/stuti760/DSA-Practice/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/stuti760/DSA-Practice/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
@@ -382,6 +384,7 @@
 | [0100-same-tree](https://github.com/stuti760/DSA-Practice/tree/main/0100-same-tree/) | Easy |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/stuti760/DSA-Practice/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/stuti760/DSA-Practice/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
+| [0144-binary-tree-preorder-traversal](https://github.com/stuti760/DSA-Practice/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -392,6 +395,7 @@
 | [0100-same-tree](https://github.com/stuti760/DSA-Practice/tree/main/0100-same-tree/) | Easy |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/stuti760/DSA-Practice/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/stuti760/DSA-Practice/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
+| [0144-binary-tree-preorder-traversal](https://github.com/stuti760/DSA-Practice/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
