@@ -194,6 +194,7 @@
 | [0027-remove-element](https://github.com/stuti760/DSA-Practice/tree/main/0027-remove-element/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/stuti760/DSA-Practice/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0202-happy-number](https://github.com/stuti760/DSA-Practice/tree/main/0202-happy-number/) | Easy |
+| [0345-reverse-vowels-of-a-string](https://github.com/stuti760/DSA-Practice/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/stuti760/DSA-Practice/tree/main/1768-merge-strings-alternately/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/stuti760/DSA-Practice/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## String
@@ -214,6 +215,7 @@
 | [0168-excel-sheet-column-title](https://github.com/stuti760/DSA-Practice/tree/main/0168-excel-sheet-column-title/) | Easy |
 | [0171-excel-sheet-column-number](https://github.com/stuti760/DSA-Practice/tree/main/0171-excel-sheet-column-number/) | Easy |
 | [0179-largest-number](https://github.com/stuti760/DSA-Practice/tree/main/0179-largest-number/) | Medium |
+| [0345-reverse-vowels-of-a-string](https://github.com/stuti760/DSA-Practice/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/stuti760/DSA-Practice/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy |
 | [0412-fizz-buzz](https://github.com/stuti760/DSA-Practice/tree/main/0412-fizz-buzz/) | Easy |
 | [0415-add-strings](https://github.com/stuti760/DSA-Practice/tree/main/0415-add-strings/) | Easy |
