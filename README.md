@@ -51,6 +51,7 @@
 | [0665-non-decreasing-array](https://github.com/stuti760/DSA-Practice/tree/main/0665-non-decreasing-array/) | Medium |
 | [0682-baseball-game](https://github.com/stuti760/DSA-Practice/tree/main/0682-baseball-game/) | Easy |
 | [1004-max-consecutive-ones-iii](https://github.com/stuti760/DSA-Practice/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+| [1207-unique-number-of-occurrences](https://github.com/stuti760/DSA-Practice/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [1260-shift-2d-grid](https://github.com/stuti760/DSA-Practice/tree/main/1260-shift-2d-grid/) | Easy |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/stuti760/DSA-Practice/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
 | [1301-number-of-paths-with-max-score](https://github.com/stuti760/DSA-Practice/tree/main/1301-number-of-paths-with-max-score/) | Hard |
@@ -82,6 +83,7 @@
 | [0264-ugly-number-ii](https://github.com/stuti760/DSA-Practice/tree/main/0264-ugly-number-ii/) | Medium |
 | [0268-missing-number](https://github.com/stuti760/DSA-Practice/tree/main/0268-missing-number/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/stuti760/DSA-Practice/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [1207-unique-number-of-occurrences](https://github.com/stuti760/DSA-Practice/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/stuti760/DSA-Practice/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/stuti760/DSA-Practice/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1399-count-largest-group](https://github.com/stuti760/DSA-Practice/tree/main/1399-count-largest-group/) | Easy |
