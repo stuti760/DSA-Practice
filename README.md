@@ -129,6 +129,7 @@
 | [0509-fibonacci-number](https://github.com/stuti760/DSA-Practice/tree/main/0509-fibonacci-number/) | Easy |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/stuti760/DSA-Practice/tree/main/0762-prime-number-of-set-bits-in-binary-representation/) | Easy |
 | [0779-k-th-symbol-in-grammar](https://github.com/stuti760/DSA-Practice/tree/main/0779-k-th-symbol-in-grammar/) | Medium |
+| [1071-greatest-common-divisor-of-strings](https://github.com/stuti760/DSA-Practice/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 | [1399-count-largest-group](https://github.com/stuti760/DSA-Practice/tree/main/1399-count-largest-group/) | Easy |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/stuti760/DSA-Practice/tree/main/1588-sum-of-all-odd-length-subarrays/) | Easy |
 | [1688-count-of-matches-in-tournament](https://github.com/stuti760/DSA-Practice/tree/main/1688-count-of-matches-in-tournament/) | Easy |
@@ -215,6 +216,7 @@
 | [0412-fizz-buzz](https://github.com/stuti760/DSA-Practice/tree/main/0412-fizz-buzz/) | Easy |
 | [0415-add-strings](https://github.com/stuti760/DSA-Practice/tree/main/0415-add-strings/) | Easy |
 | [0504-base-7](https://github.com/stuti760/DSA-Practice/tree/main/0504-base-7/) | Easy |
+| [1071-greatest-common-divisor-of-strings](https://github.com/stuti760/DSA-Practice/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/stuti760/DSA-Practice/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/stuti760/DSA-Practice/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1768-merge-strings-alternately](https://github.com/stuti760/DSA-Practice/tree/main/1768-merge-strings-alternately/) | Easy |
