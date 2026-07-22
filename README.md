@@ -69,6 +69,7 @@
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/stuti760/DSA-Practice/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3312-sorted-gcd-pair-queries](https://github.com/stuti760/DSA-Practice/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/stuti760/DSA-Practice/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/stuti760/DSA-Practice/tree/main/3501-maximize-active-section-with-trade-ii/) | Hard |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/stuti760/DSA-Practice/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/stuti760/DSA-Practice/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Hash Table
@@ -187,6 +188,7 @@
 | [1552-magnetic-force-between-two-balls](https://github.com/stuti760/DSA-Practice/tree/main/1552-magnetic-force-between-two-balls/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/stuti760/DSA-Practice/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3312-sorted-gcd-pair-queries](https://github.com/stuti760/DSA-Practice/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/stuti760/DSA-Practice/tree/main/3501-maximize-active-section-with-trade-ii/) | Hard |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -247,6 +249,7 @@
 | [2269-find-the-k-beauty-of-a-number](https://github.com/stuti760/DSA-Practice/tree/main/2269-find-the-k-beauty-of-a-number/) | Easy |
 | [2390-removing-stars-from-a-string](https://github.com/stuti760/DSA-Practice/tree/main/2390-removing-stars-from-a-string/) | Medium |
 | [3499-maximize-active-section-with-trade-i](https://github.com/stuti760/DSA-Practice/tree/main/3499-maximize-active-section-with-trade-i/) | Medium |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/stuti760/DSA-Practice/tree/main/3501-maximize-active-section-with-trade-ii/) | Hard |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -315,6 +318,7 @@
 ## Segment Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/stuti760/DSA-Practice/tree/main/3501-maximize-active-section-with-trade-ii/) | Hard |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/stuti760/DSA-Practice/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
 ## Merge Sort
 | Problem Name | Difficulty |
