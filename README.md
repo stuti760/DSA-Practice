@@ -439,6 +439,7 @@
 | [0110-balanced-binary-tree](https://github.com/stuti760/DSA-Practice/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/stuti760/DSA-Practice/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/stuti760/DSA-Practice/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
+| [0872-leaf-similar-trees](https://github.com/stuti760/DSA-Practice/tree/main/0872-leaf-similar-trees/) | Easy |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/stuti760/DSA-Practice/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
@@ -456,6 +457,7 @@
 | [0110-balanced-binary-tree](https://github.com/stuti760/DSA-Practice/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/stuti760/DSA-Practice/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/stuti760/DSA-Practice/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
+| [0872-leaf-similar-trees](https://github.com/stuti760/DSA-Practice/tree/main/0872-leaf-similar-trees/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -468,6 +470,7 @@
 | [0110-balanced-binary-tree](https://github.com/stuti760/DSA-Practice/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/stuti760/DSA-Practice/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/stuti760/DSA-Practice/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
+| [0872-leaf-similar-trees](https://github.com/stuti760/DSA-Practice/tree/main/0872-leaf-similar-trees/) | Easy |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
