@@ -393,6 +393,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/stuti760/DSA-Practice/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0841-keys-and-rooms](https://github.com/stuti760/DSA-Practice/tree/main/0841-keys-and-rooms/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/stuti760/DSA-Practice/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
+| [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/stuti760/DSA-Practice/tree/main/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero/) | Medium |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/stuti760/DSA-Practice/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/stuti760/DSA-Practice/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 ## Union-Find
@@ -450,11 +451,13 @@
 | [0872-leaf-similar-trees](https://github.com/stuti760/DSA-Practice/tree/main/0872-leaf-similar-trees/) | Easy |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/stuti760/DSA-Practice/tree/main/1372-longest-zigzag-path-in-a-binary-tree/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/stuti760/DSA-Practice/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
+| [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/stuti760/DSA-Practice/tree/main/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero/) | Medium |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/stuti760/DSA-Practice/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0841-keys-and-rooms](https://github.com/stuti760/DSA-Practice/tree/main/0841-keys-and-rooms/) | Medium |
+| [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/stuti760/DSA-Practice/tree/main/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero/) | Medium |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/stuti760/DSA-Practice/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
