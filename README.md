@@ -65,6 +65,7 @@
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/stuti760/DSA-Practice/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/stuti760/DSA-Practice/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2352-equal-row-and-column-pairs](https://github.com/stuti760/DSA-Practice/tree/main/2352-equal-row-and-column-pairs/) | Medium |
+| [2542-maximum-subsequence-score](https://github.com/stuti760/DSA-Practice/tree/main/2542-maximum-subsequence-score/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/stuti760/DSA-Practice/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/stuti760/DSA-Practice/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3312-sorted-gcd-pair-queries](https://github.com/stuti760/DSA-Practice/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
@@ -293,6 +294,7 @@
 | [0649-dota2-senate](https://github.com/stuti760/DSA-Practice/tree/main/0649-dota2-senate/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/stuti760/DSA-Practice/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/stuti760/DSA-Practice/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
+| [2542-maximum-subsequence-score](https://github.com/stuti760/DSA-Practice/tree/main/2542-maximum-subsequence-score/) | Medium |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -316,6 +318,7 @@
 | [1657-determine-if-two-strings-are-close](https://github.com/stuti760/DSA-Practice/tree/main/1657-determine-if-two-strings-are-close/) | Medium |
 | [1679-max-number-of-k-sum-pairs](https://github.com/stuti760/DSA-Practice/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/stuti760/DSA-Practice/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
+| [2542-maximum-subsequence-score](https://github.com/stuti760/DSA-Practice/tree/main/2542-maximum-subsequence-score/) | Medium |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/stuti760/DSA-Practice/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Memoization
 | Problem Name | Difficulty |
@@ -409,6 +412,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/stuti760/DSA-Practice/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0264-ugly-number-ii](https://github.com/stuti760/DSA-Practice/tree/main/0264-ugly-number-ii/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/stuti760/DSA-Practice/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [2542-maximum-subsequence-score](https://github.com/stuti760/DSA-Practice/tree/main/2542-maximum-subsequence-score/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/stuti760/DSA-Practice/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
