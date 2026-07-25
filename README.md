@@ -408,6 +408,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0100-same-tree](https://github.com/stuti760/DSA-Practice/tree/main/0100-same-tree/) | Easy |
+| [0112-path-sum](https://github.com/stuti760/DSA-Practice/tree/main/0112-path-sum/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/stuti760/DSA-Practice/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0841-keys-and-rooms](https://github.com/stuti760/DSA-Practice/tree/main/0841-keys-and-rooms/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/stuti760/DSA-Practice/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
@@ -465,6 +466,7 @@
 | [0099-recover-binary-search-tree](https://github.com/stuti760/DSA-Practice/tree/main/0099-recover-binary-search-tree/) | Medium |
 | [0100-same-tree](https://github.com/stuti760/DSA-Practice/tree/main/0100-same-tree/) | Easy |
 | [0110-balanced-binary-tree](https://github.com/stuti760/DSA-Practice/tree/main/0110-balanced-binary-tree/) | Easy |
+| [0112-path-sum](https://github.com/stuti760/DSA-Practice/tree/main/0112-path-sum/) | Easy |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/stuti760/DSA-Practice/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/stuti760/DSA-Practice/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/stuti760/DSA-Practice/tree/main/0199-binary-tree-right-side-view/) | Medium |
@@ -492,6 +494,7 @@
 | [0100-same-tree](https://github.com/stuti760/DSA-Practice/tree/main/0100-same-tree/) | Easy |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/stuti760/DSA-Practice/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0110-balanced-binary-tree](https://github.com/stuti760/DSA-Practice/tree/main/0110-balanced-binary-tree/) | Easy |
+| [0112-path-sum](https://github.com/stuti760/DSA-Practice/tree/main/0112-path-sum/) | Easy |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/stuti760/DSA-Practice/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/stuti760/DSA-Practice/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/stuti760/DSA-Practice/tree/main/0199-binary-tree-right-side-view/) | Medium |
@@ -512,6 +515,7 @@
 | [0100-same-tree](https://github.com/stuti760/DSA-Practice/tree/main/0100-same-tree/) | Easy |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/stuti760/DSA-Practice/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0110-balanced-binary-tree](https://github.com/stuti760/DSA-Practice/tree/main/0110-balanced-binary-tree/) | Easy |
+| [0112-path-sum](https://github.com/stuti760/DSA-Practice/tree/main/0112-path-sum/) | Easy |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/stuti760/DSA-Practice/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/stuti760/DSA-Practice/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/stuti760/DSA-Practice/tree/main/0199-binary-tree-right-side-view/) | Medium |
