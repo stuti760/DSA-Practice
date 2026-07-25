@@ -62,6 +62,7 @@
 | [1552-magnetic-force-between-two-balls](https://github.com/stuti760/DSA-Practice/tree/main/1552-magnetic-force-between-two-balls/) | Medium |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/stuti760/DSA-Practice/tree/main/1588-sum-of-all-odd-length-subarrays/) | Easy |
 | [1679-max-number-of-k-sum-pairs](https://github.com/stuti760/DSA-Practice/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
+| [1732-find-the-highest-altitude](https://github.com/stuti760/DSA-Practice/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/stuti760/DSA-Practice/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/stuti760/DSA-Practice/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/stuti760/DSA-Practice/tree/main/2300-successful-pairs-of-spells-and-potions/) | Medium |
@@ -349,6 +350,7 @@
 | ------- | ------- |
 | [1004-max-consecutive-ones-iii](https://github.com/stuti760/DSA-Practice/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/stuti760/DSA-Practice/tree/main/1588-sum-of-all-odd-length-subarrays/) | Easy |
+| [1732-find-the-highest-altitude](https://github.com/stuti760/DSA-Practice/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [3312-sorted-gcd-pair-queries](https://github.com/stuti760/DSA-Practice/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/stuti760/DSA-Practice/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
 ## Stack
