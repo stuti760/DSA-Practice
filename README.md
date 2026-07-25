@@ -39,6 +39,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/stuti760/DSA-Practice/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0216-combination-sum-iii](https://github.com/stuti760/DSA-Practice/tree/main/0216-combination-sum-iii/) | Medium |
 | [0217-contains-duplicate](https://github.com/stuti760/DSA-Practice/tree/main/0217-contains-duplicate/) | Easy |
+| [0228-summary-ranges](https://github.com/stuti760/DSA-Practice/tree/main/0228-summary-ranges/) | Easy |
 | [0229-majority-element-ii](https://github.com/stuti760/DSA-Practice/tree/main/0229-majority-element-ii/) | Medium |
 | [0268-missing-number](https://github.com/stuti760/DSA-Practice/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/stuti760/DSA-Practice/tree/main/0283-move-zeroes/) | Easy |
