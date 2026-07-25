@@ -20,6 +20,7 @@
 | [0048-rotate-image](https://github.com/stuti760/DSA-Practice/tree/main/0048-rotate-image/) | Medium |
 | [0066-plus-one](https://github.com/stuti760/DSA-Practice/tree/main/0066-plus-one/) | Easy |
 | [0074-search-a-2d-matrix](https://github.com/stuti760/DSA-Practice/tree/main/0074-search-a-2d-matrix/) | Medium |
+| [0078-subsets](https://github.com/stuti760/DSA-Practice/tree/main/0078-subsets/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/stuti760/DSA-Practice/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0118-pascals-triangle](https://github.com/stuti760/DSA-Practice/tree/main/0118-pascals-triangle/) | Easy |
 | [0119-pascals-triangle-ii](https://github.com/stuti760/DSA-Practice/tree/main/0119-pascals-triangle-ii/) | Easy |
@@ -375,6 +376,7 @@
 | [0046-permutations](https://github.com/stuti760/DSA-Practice/tree/main/0046-permutations/) | Medium |
 | [0047-permutations-ii](https://github.com/stuti760/DSA-Practice/tree/main/0047-permutations-ii/) | Medium |
 | [0077-combinations](https://github.com/stuti760/DSA-Practice/tree/main/0077-combinations/) | Medium |
+| [0078-subsets](https://github.com/stuti760/DSA-Practice/tree/main/0078-subsets/) | Medium |
 | [0095-unique-binary-search-trees-ii](https://github.com/stuti760/DSA-Practice/tree/main/0095-unique-binary-search-trees-ii/) | Medium |
 | [0216-combination-sum-iii](https://github.com/stuti760/DSA-Practice/tree/main/0216-combination-sum-iii/) | Medium |
 ## Enumeration
@@ -434,6 +436,7 @@
 | ------- | ------- |
 | [0029-divide-two-integers](https://github.com/stuti760/DSA-Practice/tree/main/0029-divide-two-integers/) | Medium |
 | [0067-add-binary](https://github.com/stuti760/DSA-Practice/tree/main/0067-add-binary/) | Easy |
+| [0078-subsets](https://github.com/stuti760/DSA-Practice/tree/main/0078-subsets/) | Medium |
 | [0136-single-number](https://github.com/stuti760/DSA-Practice/tree/main/0136-single-number/) | Easy |
 | [0190-reverse-bits](https://github.com/stuti760/DSA-Practice/tree/main/0190-reverse-bits/) | Easy |
 | [0191-number-of-1-bits](https://github.com/stuti760/DSA-Practice/tree/main/0191-number-of-1-bits/) | Easy |
