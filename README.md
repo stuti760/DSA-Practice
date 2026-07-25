@@ -363,6 +363,7 @@
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/stuti760/DSA-Practice/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/stuti760/DSA-Practice/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/stuti760/DSA-Practice/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
+| [0232-implement-queue-using-stacks](https://github.com/stuti760/DSA-Practice/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0445-add-two-numbers-ii](https://github.com/stuti760/DSA-Practice/tree/main/0445-add-two-numbers-ii/) | Medium |
 | [0682-baseball-game](https://github.com/stuti760/DSA-Practice/tree/main/0682-baseball-game/) | Easy |
 | [0735-asteroid-collision](https://github.com/stuti760/DSA-Practice/tree/main/0735-asteroid-collision/) | Medium |
@@ -603,10 +604,12 @@
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/stuti760/DSA-Practice/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0933-number-of-recent-calls](https://github.com/stuti760/DSA-Practice/tree/main/0933-number-of-recent-calls/) | Easy |
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/stuti760/DSA-Practice/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0649-dota2-senate](https://github.com/stuti760/DSA-Practice/tree/main/0649-dota2-senate/) | Medium |
 | [0933-number-of-recent-calls](https://github.com/stuti760/DSA-Practice/tree/main/0933-number-of-recent-calls/) | Easy |
 ## Data Stream
