@@ -97,6 +97,7 @@
 | [0290-word-pattern](https://github.com/stuti760/DSA-Practice/tree/main/0290-word-pattern/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/stuti760/DSA-Practice/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/stuti760/DSA-Practice/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0383-ransom-note](https://github.com/stuti760/DSA-Practice/tree/main/0383-ransom-note/) | Easy |
 | [1207-unique-number-of-occurrences](https://github.com/stuti760/DSA-Practice/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/stuti760/DSA-Practice/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/stuti760/DSA-Practice/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
@@ -257,6 +258,7 @@
 | [0179-largest-number](https://github.com/stuti760/DSA-Practice/tree/main/0179-largest-number/) | Medium |
 | [0290-word-pattern](https://github.com/stuti760/DSA-Practice/tree/main/0290-word-pattern/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/stuti760/DSA-Practice/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
+| [0383-ransom-note](https://github.com/stuti760/DSA-Practice/tree/main/0383-ransom-note/) | Easy |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/stuti760/DSA-Practice/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy |
 | [0412-fizz-buzz](https://github.com/stuti760/DSA-Practice/tree/main/0412-fizz-buzz/) | Easy |
 | [0415-add-strings](https://github.com/stuti760/DSA-Practice/tree/main/0415-add-strings/) | Easy |
@@ -581,6 +583,7 @@
 | ------- | ------- |
 | [0229-majority-element-ii](https://github.com/stuti760/DSA-Practice/tree/main/0229-majority-element-ii/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/stuti760/DSA-Practice/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0383-ransom-note](https://github.com/stuti760/DSA-Practice/tree/main/0383-ransom-note/) | Easy |
 | [1399-count-largest-group](https://github.com/stuti760/DSA-Practice/tree/main/1399-count-largest-group/) | Easy |
 | [1657-determine-if-two-strings-are-close](https://github.com/stuti760/DSA-Practice/tree/main/1657-determine-if-two-strings-are-close/) | Medium |
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/stuti760/DSA-Practice/tree/main/1742-maximum-number-of-balls-in-a-box/) | Easy |
