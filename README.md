@@ -29,6 +29,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/stuti760/DSA-Practice/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0134-gas-station](https://github.com/stuti760/DSA-Practice/tree/main/0134-gas-station/) | Medium |
 | [0136-single-number](https://github.com/stuti760/DSA-Practice/tree/main/0136-single-number/) | Easy |
+| [0137-single-number-ii](https://github.com/stuti760/DSA-Practice/tree/main/0137-single-number-ii/) | Medium |
 | [0150-evaluate-reverse-polish-notation](https://github.com/stuti760/DSA-Practice/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/stuti760/DSA-Practice/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/stuti760/DSA-Practice/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
@@ -463,6 +464,7 @@
 | [0067-add-binary](https://github.com/stuti760/DSA-Practice/tree/main/0067-add-binary/) | Easy |
 | [0078-subsets](https://github.com/stuti760/DSA-Practice/tree/main/0078-subsets/) | Medium |
 | [0136-single-number](https://github.com/stuti760/DSA-Practice/tree/main/0136-single-number/) | Easy |
+| [0137-single-number-ii](https://github.com/stuti760/DSA-Practice/tree/main/0137-single-number-ii/) | Medium |
 | [0190-reverse-bits](https://github.com/stuti760/DSA-Practice/tree/main/0190-reverse-bits/) | Easy |
 | [0191-number-of-1-bits](https://github.com/stuti760/DSA-Practice/tree/main/0191-number-of-1-bits/) | Easy |
 | [0268-missing-number](https://github.com/stuti760/DSA-Practice/tree/main/0268-missing-number/) | Easy |
