@@ -149,6 +149,7 @@
 | [0268-missing-number](https://github.com/stuti760/DSA-Practice/tree/main/0268-missing-number/) | Easy |
 | [0292-nim-game](https://github.com/stuti760/DSA-Practice/tree/main/0292-nim-game/) | Easy |
 | [0342-power-of-four](https://github.com/stuti760/DSA-Practice/tree/main/0342-power-of-four/) | Easy |
+| [0343-integer-break](https://github.com/stuti760/DSA-Practice/tree/main/0343-integer-break/) | Medium |
 | [0367-valid-perfect-square](https://github.com/stuti760/DSA-Practice/tree/main/0367-valid-perfect-square/) | Easy |
 | [0368-largest-divisible-subset](https://github.com/stuti760/DSA-Practice/tree/main/0368-largest-divisible-subset/) | Medium |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/stuti760/DSA-Practice/tree/main/0375-guess-number-higher-or-lower-ii/) | Medium |
@@ -305,6 +306,7 @@
 | [0198-house-robber](https://github.com/stuti760/DSA-Practice/tree/main/0198-house-robber/) | Medium |
 | [0264-ugly-number-ii](https://github.com/stuti760/DSA-Practice/tree/main/0264-ugly-number-ii/) | Medium |
 | [0338-counting-bits](https://github.com/stuti760/DSA-Practice/tree/main/0338-counting-bits/) | Easy |
+| [0343-integer-break](https://github.com/stuti760/DSA-Practice/tree/main/0343-integer-break/) | Medium |
 | [0368-largest-divisible-subset](https://github.com/stuti760/DSA-Practice/tree/main/0368-largest-divisible-subset/) | Medium |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/stuti760/DSA-Practice/tree/main/0375-guess-number-higher-or-lower-ii/) | Medium |
 | [0509-fibonacci-number](https://github.com/stuti760/DSA-Practice/tree/main/0509-fibonacci-number/) | Easy |
