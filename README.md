@@ -52,6 +52,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/stuti760/DSA-Practice/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0368-largest-divisible-subset](https://github.com/stuti760/DSA-Practice/tree/main/0368-largest-divisible-subset/) | Medium |
 | [0436-find-right-interval](https://github.com/stuti760/DSA-Practice/tree/main/0436-find-right-interval/) | Medium |
+| [0455-assign-cookies](https://github.com/stuti760/DSA-Practice/tree/main/0455-assign-cookies/) | Easy |
 | [0605-can-place-flowers](https://github.com/stuti760/DSA-Practice/tree/main/0605-can-place-flowers/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/stuti760/DSA-Practice/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0661-image-smoother](https://github.com/stuti760/DSA-Practice/tree/main/0661-image-smoother/) | Easy |
@@ -242,6 +243,7 @@
 | [0345-reverse-vowels-of-a-string](https://github.com/stuti760/DSA-Practice/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/stuti760/DSA-Practice/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/stuti760/DSA-Practice/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
+| [0455-assign-cookies](https://github.com/stuti760/DSA-Practice/tree/main/0455-assign-cookies/) | Easy |
 | [1679-max-number-of-k-sum-pairs](https://github.com/stuti760/DSA-Practice/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 | [1768-merge-strings-alternately](https://github.com/stuti760/DSA-Practice/tree/main/1768-merge-strings-alternately/) | Easy |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/stuti760/DSA-Practice/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
@@ -329,6 +331,7 @@
 | [0179-largest-number](https://github.com/stuti760/DSA-Practice/tree/main/0179-largest-number/) | Medium |
 | [0334-increasing-triplet-subsequence](https://github.com/stuti760/DSA-Practice/tree/main/0334-increasing-triplet-subsequence/) | Medium |
 | [0397-integer-replacement](https://github.com/stuti760/DSA-Practice/tree/main/0397-integer-replacement/) | Medium |
+| [0455-assign-cookies](https://github.com/stuti760/DSA-Practice/tree/main/0455-assign-cookies/) | Easy |
 | [0605-can-place-flowers](https://github.com/stuti760/DSA-Practice/tree/main/0605-can-place-flowers/) | Easy |
 | [0649-dota2-senate](https://github.com/stuti760/DSA-Practice/tree/main/0649-dota2-senate/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/stuti760/DSA-Practice/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
@@ -355,6 +358,7 @@
 | [0368-largest-divisible-subset](https://github.com/stuti760/DSA-Practice/tree/main/0368-largest-divisible-subset/) | Medium |
 | [0389-find-the-difference](https://github.com/stuti760/DSA-Practice/tree/main/0389-find-the-difference/) | Easy |
 | [0436-find-right-interval](https://github.com/stuti760/DSA-Practice/tree/main/0436-find-right-interval/) | Medium |
+| [0455-assign-cookies](https://github.com/stuti760/DSA-Practice/tree/main/0455-assign-cookies/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/stuti760/DSA-Practice/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1552-magnetic-force-between-two-balls](https://github.com/stuti760/DSA-Practice/tree/main/1552-magnetic-force-between-two-balls/) | Medium |
 | [1657-determine-if-two-strings-are-close](https://github.com/stuti760/DSA-Practice/tree/main/1657-determine-if-two-strings-are-close/) | Medium |
