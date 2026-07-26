@@ -53,6 +53,7 @@
 | [0368-largest-divisible-subset](https://github.com/stuti760/DSA-Practice/tree/main/0368-largest-divisible-subset/) | Medium |
 | [0436-find-right-interval](https://github.com/stuti760/DSA-Practice/tree/main/0436-find-right-interval/) | Medium |
 | [0455-assign-cookies](https://github.com/stuti760/DSA-Practice/tree/main/0455-assign-cookies/) | Easy |
+| [0496-next-greater-element-i](https://github.com/stuti760/DSA-Practice/tree/main/0496-next-greater-element-i/) | Easy |
 | [0605-can-place-flowers](https://github.com/stuti760/DSA-Practice/tree/main/0605-can-place-flowers/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/stuti760/DSA-Practice/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0661-image-smoother](https://github.com/stuti760/DSA-Practice/tree/main/0661-image-smoother/) | Easy |
@@ -106,6 +107,7 @@
 | [0383-ransom-note](https://github.com/stuti760/DSA-Practice/tree/main/0383-ransom-note/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/stuti760/DSA-Practice/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0389-find-the-difference](https://github.com/stuti760/DSA-Practice/tree/main/0389-find-the-difference/) | Easy |
+| [0496-next-greater-element-i](https://github.com/stuti760/DSA-Practice/tree/main/0496-next-greater-element-i/) | Easy |
 | [1207-unique-number-of-occurrences](https://github.com/stuti760/DSA-Practice/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/stuti760/DSA-Practice/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/stuti760/DSA-Practice/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
@@ -403,6 +405,7 @@
 | [0232-implement-queue-using-stacks](https://github.com/stuti760/DSA-Practice/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/stuti760/DSA-Practice/tree/main/0331-verify-preorder-serialization-of-a-binary-tree/) | Medium |
 | [0445-add-two-numbers-ii](https://github.com/stuti760/DSA-Practice/tree/main/0445-add-two-numbers-ii/) | Medium |
+| [0496-next-greater-element-i](https://github.com/stuti760/DSA-Practice/tree/main/0496-next-greater-element-i/) | Easy |
 | [0682-baseball-game](https://github.com/stuti760/DSA-Practice/tree/main/0682-baseball-game/) | Easy |
 | [0735-asteroid-collision](https://github.com/stuti760/DSA-Practice/tree/main/0735-asteroid-collision/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/stuti760/DSA-Practice/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
@@ -656,6 +659,7 @@
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0496-next-greater-element-i](https://github.com/stuti760/DSA-Practice/tree/main/0496-next-greater-element-i/) | Easy |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/stuti760/DSA-Practice/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 ## Design
 | Problem Name | Difficulty |
