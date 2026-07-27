@@ -67,6 +67,7 @@
 | [1301-number-of-paths-with-max-score](https://github.com/stuti760/DSA-Practice/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1331-rank-transform-of-an-array](https://github.com/stuti760/DSA-Practice/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/stuti760/DSA-Practice/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/stuti760/DSA-Practice/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/stuti760/DSA-Practice/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 | [1552-magnetic-force-between-two-balls](https://github.com/stuti760/DSA-Practice/tree/main/1552-magnetic-force-between-two-balls/) | Medium |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/stuti760/DSA-Practice/tree/main/1588-sum-of-all-odd-length-subarrays/) | Easy |
@@ -367,6 +368,7 @@
 | [0436-find-right-interval](https://github.com/stuti760/DSA-Practice/tree/main/0436-find-right-interval/) | Medium |
 | [0455-assign-cookies](https://github.com/stuti760/DSA-Practice/tree/main/0455-assign-cookies/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/stuti760/DSA-Practice/tree/main/1331-rank-transform-of-an-array/) | Easy |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/stuti760/DSA-Practice/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1552-magnetic-force-between-two-balls](https://github.com/stuti760/DSA-Practice/tree/main/1552-magnetic-force-between-two-balls/) | Medium |
 | [1657-determine-if-two-strings-are-close](https://github.com/stuti760/DSA-Practice/tree/main/1657-determine-if-two-strings-are-close/) | Medium |
 | [1679-max-number-of-k-sum-pairs](https://github.com/stuti760/DSA-Practice/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
@@ -480,6 +482,7 @@
 | [0239-sliding-window-maximum](https://github.com/stuti760/DSA-Practice/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0264-ugly-number-ii](https://github.com/stuti760/DSA-Practice/tree/main/0264-ugly-number-ii/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/stuti760/DSA-Practice/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/stuti760/DSA-Practice/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [2462-total-cost-to-hire-k-workers](https://github.com/stuti760/DSA-Practice/tree/main/2462-total-cost-to-hire-k-workers/) | Medium |
 | [2542-maximum-subsequence-score](https://github.com/stuti760/DSA-Practice/tree/main/2542-maximum-subsequence-score/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/stuti760/DSA-Practice/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
