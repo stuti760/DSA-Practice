@@ -303,6 +303,7 @@
 | [2390-removing-stars-from-a-string](https://github.com/stuti760/DSA-Practice/tree/main/2390-removing-stars-from-a-string/) | Medium |
 | [3499-maximize-active-section-with-trade-i](https://github.com/stuti760/DSA-Practice/tree/main/3499-maximize-active-section-with-trade-i/) | Medium |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/stuti760/DSA-Practice/tree/main/3501-maximize-active-section-with-trade-ii/) | Hard |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/stuti760/DSA-Practice/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -379,6 +380,7 @@
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/stuti760/DSA-Practice/tree/main/2300-successful-pairs-of-spells-and-potions/) | Medium |
 | [2542-maximum-subsequence-score](https://github.com/stuti760/DSA-Practice/tree/main/2542-maximum-subsequence-score/) | Medium |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/stuti760/DSA-Practice/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/stuti760/DSA-Practice/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3536-maximum-product-of-two-digits](https://github.com/stuti760/DSA-Practice/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/stuti760/DSA-Practice/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Memoization
@@ -693,4 +695,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0239-sliding-window-maximum](https://github.com/stuti760/DSA-Practice/tree/main/0239-sliding-window-maximum/) | Hard |
+## Counting Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/stuti760/DSA-Practice/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 <!---LeetCode Topics End-->
