@@ -128,6 +128,7 @@
 | [0002-add-two-numbers](https://github.com/stuti760/DSA-Practice/tree/main/0002-add-two-numbers/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/stuti760/DSA-Practice/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/stuti760/DSA-Practice/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
+| [0143-reorder-list](https://github.com/stuti760/DSA-Practice/tree/main/0143-reorder-list/) | Medium |
 | [0206-reverse-linked-list](https://github.com/stuti760/DSA-Practice/tree/main/0206-reverse-linked-list/) | Easy |
 | [0237-delete-node-in-a-linked-list](https://github.com/stuti760/DSA-Practice/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
 | [0382-linked-list-random-node](https://github.com/stuti760/DSA-Practice/tree/main/0382-linked-list-random-node/) | Medium |
@@ -199,6 +200,7 @@
 | [0002-add-two-numbers](https://github.com/stuti760/DSA-Practice/tree/main/0002-add-two-numbers/) | Medium |
 | [0010-regular-expression-matching](https://github.com/stuti760/DSA-Practice/tree/main/0010-regular-expression-matching/) | Hard |
 | [0021-merge-two-sorted-lists](https://github.com/stuti760/DSA-Practice/tree/main/0021-merge-two-sorted-lists/) | Easy |
+| [0143-reorder-list](https://github.com/stuti760/DSA-Practice/tree/main/0143-reorder-list/) | Medium |
 | [0206-reverse-linked-list](https://github.com/stuti760/DSA-Practice/tree/main/0206-reverse-linked-list/) | Easy |
 | [0342-power-of-four](https://github.com/stuti760/DSA-Practice/tree/main/0342-power-of-four/) | Easy |
 | [0509-fibonacci-number](https://github.com/stuti760/DSA-Practice/tree/main/0509-fibonacci-number/) | Easy |
@@ -246,6 +248,7 @@
 | [0015-3sum](https://github.com/stuti760/DSA-Practice/tree/main/0015-3sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/stuti760/DSA-Practice/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/stuti760/DSA-Practice/tree/main/0027-remove-element/) | Easy |
+| [0143-reorder-list](https://github.com/stuti760/DSA-Practice/tree/main/0143-reorder-list/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/stuti760/DSA-Practice/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/stuti760/DSA-Practice/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0202-happy-number](https://github.com/stuti760/DSA-Practice/tree/main/0202-happy-number/) | Easy |
@@ -421,6 +424,7 @@
 | [0032-longest-valid-parentheses](https://github.com/stuti760/DSA-Practice/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0094-binary-tree-inorder-traversal](https://github.com/stuti760/DSA-Practice/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/stuti760/DSA-Practice/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
+| [0143-reorder-list](https://github.com/stuti760/DSA-Practice/tree/main/0143-reorder-list/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/stuti760/DSA-Practice/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/stuti760/DSA-Practice/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0232-implement-queue-using-stacks](https://github.com/stuti760/DSA-Practice/tree/main/0232-implement-queue-using-stacks/) | Easy |
