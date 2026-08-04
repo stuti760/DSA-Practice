@@ -87,6 +87,7 @@
 | [3501-maximize-active-section-with-trade-ii](https://github.com/stuti760/DSA-Practice/tree/main/3501-maximize-active-section-with-trade-ii/) | Hard |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/stuti760/DSA-Practice/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/stuti760/DSA-Practice/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
+| [3731-find-missing-elements](https://github.com/stuti760/DSA-Practice/tree/main/3731-find-missing-elements/) | Easy |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/stuti760/DSA-Practice/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/stuti760/DSA-Practice/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Hash Table
@@ -121,6 +122,7 @@
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/stuti760/DSA-Practice/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3312-sorted-gcd-pair-queries](https://github.com/stuti760/DSA-Practice/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/stuti760/DSA-Practice/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
+| [3731-find-missing-elements](https://github.com/stuti760/DSA-Practice/tree/main/3731-find-missing-elements/) | Easy |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/stuti760/DSA-Practice/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
 ## Linked List
 | Problem Name | Difficulty |
@@ -396,6 +398,7 @@
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/stuti760/DSA-Practice/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/stuti760/DSA-Practice/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3536-maximum-product-of-two-digits](https://github.com/stuti760/DSA-Practice/tree/main/3536-maximum-product-of-two-digits/) | Easy |
+| [3731-find-missing-elements](https://github.com/stuti760/DSA-Practice/tree/main/3731-find-missing-elements/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/stuti760/DSA-Practice/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Memoization
 | Problem Name | Difficulty |
