@@ -31,6 +31,7 @@ class Solution {
         leftTail.next = right.next;
         rightTail.next = null;
         
+        
         return left.next;
     }
 }
