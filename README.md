@@ -51,6 +51,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/stuti760/DSA-Practice/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/stuti760/DSA-Practice/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0368-largest-divisible-subset](https://github.com/stuti760/DSA-Practice/tree/main/0368-largest-divisible-subset/) | Medium |
+| [0414-third-maximum-number](https://github.com/stuti760/DSA-Practice/tree/main/0414-third-maximum-number/) | Easy |
 | [0436-find-right-interval](https://github.com/stuti760/DSA-Practice/tree/main/0436-find-right-interval/) | Medium |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/stuti760/DSA-Practice/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
 | [0455-assign-cookies](https://github.com/stuti760/DSA-Practice/tree/main/0455-assign-cookies/) | Easy |
@@ -398,6 +399,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/stuti760/DSA-Practice/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0368-largest-divisible-subset](https://github.com/stuti760/DSA-Practice/tree/main/0368-largest-divisible-subset/) | Medium |
 | [0389-find-the-difference](https://github.com/stuti760/DSA-Practice/tree/main/0389-find-the-difference/) | Easy |
+| [0414-third-maximum-number](https://github.com/stuti760/DSA-Practice/tree/main/0414-third-maximum-number/) | Easy |
 | [0436-find-right-interval](https://github.com/stuti760/DSA-Practice/tree/main/0436-find-right-interval/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/stuti760/DSA-Practice/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/stuti760/DSA-Practice/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
