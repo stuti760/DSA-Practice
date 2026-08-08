@@ -55,6 +55,7 @@
 | [0436-find-right-interval](https://github.com/stuti760/DSA-Practice/tree/main/0436-find-right-interval/) | Medium |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/stuti760/DSA-Practice/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
 | [0455-assign-cookies](https://github.com/stuti760/DSA-Practice/tree/main/0455-assign-cookies/) | Easy |
+| [0456-132-pattern](https://github.com/stuti760/DSA-Practice/tree/main/0456-132-pattern/) | Medium |
 | [0496-next-greater-element-i](https://github.com/stuti760/DSA-Practice/tree/main/0496-next-greater-element-i/) | Easy |
 | [0605-can-place-flowers](https://github.com/stuti760/DSA-Practice/tree/main/0605-can-place-flowers/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/stuti760/DSA-Practice/tree/main/0643-maximum-average-subarray-i/) | Easy |
@@ -231,6 +232,7 @@
 | [0367-valid-perfect-square](https://github.com/stuti760/DSA-Practice/tree/main/0367-valid-perfect-square/) | Easy |
 | [0436-find-right-interval](https://github.com/stuti760/DSA-Practice/tree/main/0436-find-right-interval/) | Medium |
 | [0441-arranging-coins](https://github.com/stuti760/DSA-Practice/tree/main/0441-arranging-coins/) | Easy |
+| [0456-132-pattern](https://github.com/stuti760/DSA-Practice/tree/main/0456-132-pattern/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/stuti760/DSA-Practice/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/stuti760/DSA-Practice/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
 | [1552-magnetic-force-between-two-balls](https://github.com/stuti760/DSA-Practice/tree/main/1552-magnetic-force-between-two-balls/) | Medium |
@@ -452,6 +454,7 @@
 | [0232-implement-queue-using-stacks](https://github.com/stuti760/DSA-Practice/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/stuti760/DSA-Practice/tree/main/0331-verify-preorder-serialization-of-a-binary-tree/) | Medium |
 | [0445-add-two-numbers-ii](https://github.com/stuti760/DSA-Practice/tree/main/0445-add-two-numbers-ii/) | Medium |
+| [0456-132-pattern](https://github.com/stuti760/DSA-Practice/tree/main/0456-132-pattern/) | Medium |
 | [0496-next-greater-element-i](https://github.com/stuti760/DSA-Practice/tree/main/0496-next-greater-element-i/) | Easy |
 | [0682-baseball-game](https://github.com/stuti760/DSA-Practice/tree/main/0682-baseball-game/) | Easy |
 | [0735-asteroid-collision](https://github.com/stuti760/DSA-Practice/tree/main/0735-asteroid-collision/) | Medium |
@@ -716,6 +719,7 @@
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0456-132-pattern](https://github.com/stuti760/DSA-Practice/tree/main/0456-132-pattern/) | Medium |
 | [0496-next-greater-element-i](https://github.com/stuti760/DSA-Practice/tree/main/0496-next-greater-element-i/) | Easy |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/stuti760/DSA-Practice/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/stuti760/DSA-Practice/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
@@ -744,4 +748,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/stuti760/DSA-Practice/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
+## Ordered Set
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0456-132-pattern](https://github.com/stuti760/DSA-Practice/tree/main/0456-132-pattern/) | Medium |
 <!---LeetCode Topics End-->
