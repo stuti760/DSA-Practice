@@ -52,6 +52,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/stuti760/DSA-Practice/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0368-largest-divisible-subset](https://github.com/stuti760/DSA-Practice/tree/main/0368-largest-divisible-subset/) | Medium |
 | [0436-find-right-interval](https://github.com/stuti760/DSA-Practice/tree/main/0436-find-right-interval/) | Medium |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/stuti760/DSA-Practice/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
 | [0455-assign-cookies](https://github.com/stuti760/DSA-Practice/tree/main/0455-assign-cookies/) | Easy |
 | [0496-next-greater-element-i](https://github.com/stuti760/DSA-Practice/tree/main/0496-next-greater-element-i/) | Easy |
 | [0605-can-place-flowers](https://github.com/stuti760/DSA-Practice/tree/main/0605-can-place-flowers/) | Easy |
@@ -366,6 +367,7 @@
 | [0179-largest-number](https://github.com/stuti760/DSA-Practice/tree/main/0179-largest-number/) | Medium |
 | [0334-increasing-triplet-subsequence](https://github.com/stuti760/DSA-Practice/tree/main/0334-increasing-triplet-subsequence/) | Medium |
 | [0397-integer-replacement](https://github.com/stuti760/DSA-Practice/tree/main/0397-integer-replacement/) | Medium |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/stuti760/DSA-Practice/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
 | [0455-assign-cookies](https://github.com/stuti760/DSA-Practice/tree/main/0455-assign-cookies/) | Easy |
 | [0605-can-place-flowers](https://github.com/stuti760/DSA-Practice/tree/main/0605-can-place-flowers/) | Easy |
 | [0649-dota2-senate](https://github.com/stuti760/DSA-Practice/tree/main/0649-dota2-senate/) | Medium |
@@ -397,6 +399,7 @@
 | [0389-find-the-difference](https://github.com/stuti760/DSA-Practice/tree/main/0389-find-the-difference/) | Easy |
 | [0436-find-right-interval](https://github.com/stuti760/DSA-Practice/tree/main/0436-find-right-interval/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/stuti760/DSA-Practice/tree/main/0451-sort-characters-by-frequency/) | Medium |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/stuti760/DSA-Practice/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
 | [0455-assign-cookies](https://github.com/stuti760/DSA-Practice/tree/main/0455-assign-cookies/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/stuti760/DSA-Practice/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/stuti760/DSA-Practice/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
