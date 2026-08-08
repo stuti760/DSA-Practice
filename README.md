@@ -133,6 +133,7 @@
 | [0086-partition-list](https://github.com/stuti760/DSA-Practice/tree/main/0086-partition-list/) | Medium |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/stuti760/DSA-Practice/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0143-reorder-list](https://github.com/stuti760/DSA-Practice/tree/main/0143-reorder-list/) | Medium |
+| [0147-insertion-sort-list](https://github.com/stuti760/DSA-Practice/tree/main/0147-insertion-sort-list/) | Medium |
 | [0206-reverse-linked-list](https://github.com/stuti760/DSA-Practice/tree/main/0206-reverse-linked-list/) | Easy |
 | [0237-delete-node-in-a-linked-list](https://github.com/stuti760/DSA-Practice/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
 | [0382-linked-list-random-node](https://github.com/stuti760/DSA-Practice/tree/main/0382-linked-list-random-node/) | Medium |
@@ -380,6 +381,7 @@
 | ------- | ------- |
 | [0015-3sum](https://github.com/stuti760/DSA-Practice/tree/main/0015-3sum/) | Medium |
 | [0047-permutations-ii](https://github.com/stuti760/DSA-Practice/tree/main/0047-permutations-ii/) | Medium |
+| [0147-insertion-sort-list](https://github.com/stuti760/DSA-Practice/tree/main/0147-insertion-sort-list/) | Medium |
 | [0164-maximum-gap](https://github.com/stuti760/DSA-Practice/tree/main/0164-maximum-gap/) | Medium |
 | [0179-largest-number](https://github.com/stuti760/DSA-Practice/tree/main/0179-largest-number/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/stuti760/DSA-Practice/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
