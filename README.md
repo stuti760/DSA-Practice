@@ -175,6 +175,7 @@
 | [0368-largest-divisible-subset](https://github.com/stuti760/DSA-Practice/tree/main/0368-largest-divisible-subset/) | Medium |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/stuti760/DSA-Practice/tree/main/0375-guess-number-higher-or-lower-ii/) | Medium |
 | [0382-linked-list-random-node](https://github.com/stuti760/DSA-Practice/tree/main/0382-linked-list-random-node/) | Medium |
+| [0390-elimination-game](https://github.com/stuti760/DSA-Practice/tree/main/0390-elimination-game/) | Medium |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/stuti760/DSA-Practice/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy |
 | [0412-fizz-buzz](https://github.com/stuti760/DSA-Practice/tree/main/0412-fizz-buzz/) | Easy |
 | [0415-add-strings](https://github.com/stuti760/DSA-Practice/tree/main/0415-add-strings/) | Easy |
@@ -213,6 +214,7 @@
 | [0143-reorder-list](https://github.com/stuti760/DSA-Practice/tree/main/0143-reorder-list/) | Medium |
 | [0206-reverse-linked-list](https://github.com/stuti760/DSA-Practice/tree/main/0206-reverse-linked-list/) | Easy |
 | [0342-power-of-four](https://github.com/stuti760/DSA-Practice/tree/main/0342-power-of-four/) | Easy |
+| [0390-elimination-game](https://github.com/stuti760/DSA-Practice/tree/main/0390-elimination-game/) | Medium |
 | [0509-fibonacci-number](https://github.com/stuti760/DSA-Practice/tree/main/0509-fibonacci-number/) | Easy |
 | [0779-k-th-symbol-in-grammar](https://github.com/stuti760/DSA-Practice/tree/main/0779-k-th-symbol-in-grammar/) | Medium |
 ## Binary Search
