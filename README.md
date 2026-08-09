@@ -316,6 +316,7 @@
 | [0415-add-strings](https://github.com/stuti760/DSA-Practice/tree/main/0415-add-strings/) | Easy |
 | [0434-number-of-segments-in-a-string](https://github.com/stuti760/DSA-Practice/tree/main/0434-number-of-segments-in-a-string/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/stuti760/DSA-Practice/tree/main/0451-sort-characters-by-frequency/) | Medium |
+| [0467-unique-substrings-in-wraparound-string](https://github.com/stuti760/DSA-Practice/tree/main/0467-unique-substrings-in-wraparound-string/) | Medium |
 | [0482-license-key-formatting](https://github.com/stuti760/DSA-Practice/tree/main/0482-license-key-formatting/) | Easy |
 | [0504-base-7](https://github.com/stuti760/DSA-Practice/tree/main/0504-base-7/) | Easy |
 | [0520-detect-capital](https://github.com/stuti760/DSA-Practice/tree/main/0520-detect-capital/) | Easy |
@@ -362,6 +363,7 @@
 | [0368-largest-divisible-subset](https://github.com/stuti760/DSA-Practice/tree/main/0368-largest-divisible-subset/) | Medium |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/stuti760/DSA-Practice/tree/main/0375-guess-number-higher-or-lower-ii/) | Medium |
 | [0397-integer-replacement](https://github.com/stuti760/DSA-Practice/tree/main/0397-integer-replacement/) | Medium |
+| [0467-unique-substrings-in-wraparound-string](https://github.com/stuti760/DSA-Practice/tree/main/0467-unique-substrings-in-wraparound-string/) | Medium |
 | [0509-fibonacci-number](https://github.com/stuti760/DSA-Practice/tree/main/0509-fibonacci-number/) | Easy |
 | [1140-stone-game-ii](https://github.com/stuti760/DSA-Practice/tree/main/1140-stone-game-ii/) | Medium |
 | [1301-number-of-paths-with-max-score](https://github.com/stuti760/DSA-Practice/tree/main/1301-number-of-paths-with-max-score/) | Hard |
