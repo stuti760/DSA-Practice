@@ -385,6 +385,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/stuti760/DSA-Practice/tree/main/0014-longest-common-prefix/) | Easy |
+| [0386-lexicographical-numbers](https://github.com/stuti760/DSA-Practice/tree/main/0386-lexicographical-numbers/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -587,6 +588,7 @@
 | [0226-invert-binary-tree](https://github.com/stuti760/DSA-Practice/tree/main/0226-invert-binary-tree/) | Easy |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/stuti760/DSA-Practice/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0385-mini-parser](https://github.com/stuti760/DSA-Practice/tree/main/0385-mini-parser/) | Medium |
+| [0386-lexicographical-numbers](https://github.com/stuti760/DSA-Practice/tree/main/0386-lexicographical-numbers/) | Medium |
 | [0404-sum-of-left-leaves](https://github.com/stuti760/DSA-Practice/tree/main/0404-sum-of-left-leaves/) | Easy |
 | [0437-path-sum-iii](https://github.com/stuti760/DSA-Practice/tree/main/0437-path-sum-iii/) | Medium |
 | [0841-keys-and-rooms](https://github.com/stuti760/DSA-Practice/tree/main/0841-keys-and-rooms/) | Medium |
