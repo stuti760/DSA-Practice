@@ -303,6 +303,7 @@
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/stuti760/DSA-Practice/tree/main/0331-verify-preorder-serialization-of-a-binary-tree/) | Medium |
 | [0345-reverse-vowels-of-a-string](https://github.com/stuti760/DSA-Practice/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0383-ransom-note](https://github.com/stuti760/DSA-Practice/tree/main/0383-ransom-note/) | Easy |
+| [0385-mini-parser](https://github.com/stuti760/DSA-Practice/tree/main/0385-mini-parser/) | Medium |
 | [0387-first-unique-character-in-a-string](https://github.com/stuti760/DSA-Practice/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0389-find-the-difference](https://github.com/stuti760/DSA-Practice/tree/main/0389-find-the-difference/) | Easy |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/stuti760/DSA-Practice/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy |
@@ -453,6 +454,7 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/stuti760/DSA-Practice/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0232-implement-queue-using-stacks](https://github.com/stuti760/DSA-Practice/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/stuti760/DSA-Practice/tree/main/0331-verify-preorder-serialization-of-a-binary-tree/) | Medium |
+| [0385-mini-parser](https://github.com/stuti760/DSA-Practice/tree/main/0385-mini-parser/) | Medium |
 | [0445-add-two-numbers-ii](https://github.com/stuti760/DSA-Practice/tree/main/0445-add-two-numbers-ii/) | Medium |
 | [0456-132-pattern](https://github.com/stuti760/DSA-Practice/tree/main/0456-132-pattern/) | Medium |
 | [0496-next-greater-element-i](https://github.com/stuti760/DSA-Practice/tree/main/0496-next-greater-element-i/) | Easy |
@@ -584,6 +586,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/stuti760/DSA-Practice/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0226-invert-binary-tree](https://github.com/stuti760/DSA-Practice/tree/main/0226-invert-binary-tree/) | Easy |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/stuti760/DSA-Practice/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
+| [0385-mini-parser](https://github.com/stuti760/DSA-Practice/tree/main/0385-mini-parser/) | Medium |
 | [0404-sum-of-left-leaves](https://github.com/stuti760/DSA-Practice/tree/main/0404-sum-of-left-leaves/) | Easy |
 | [0437-path-sum-iii](https://github.com/stuti760/DSA-Practice/tree/main/0437-path-sum-iii/) | Medium |
 | [0841-keys-and-rooms](https://github.com/stuti760/DSA-Practice/tree/main/0841-keys-and-rooms/) | Medium |
