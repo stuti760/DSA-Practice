@@ -190,6 +190,7 @@
 | [1071-greatest-common-divisor-of-strings](https://github.com/stuti760/DSA-Practice/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 | [1140-stone-game-ii](https://github.com/stuti760/DSA-Practice/tree/main/1140-stone-game-ii/) | Medium |
 | [1399-count-largest-group](https://github.com/stuti760/DSA-Practice/tree/main/1399-count-largest-group/) | Easy |
+| [1510-stone-game-iv](https://github.com/stuti760/DSA-Practice/tree/main/1510-stone-game-iv/) | Hard |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/stuti760/DSA-Practice/tree/main/1588-sum-of-all-odd-length-subarrays/) | Easy |
 | [1688-count-of-matches-in-tournament](https://github.com/stuti760/DSA-Practice/tree/main/1688-count-of-matches-in-tournament/) | Easy |
 | [1716-calculate-money-in-leetcode-bank](https://github.com/stuti760/DSA-Practice/tree/main/1716-calculate-money-in-leetcode-bank/) | Easy |
@@ -370,6 +371,7 @@
 | [1301-number-of-paths-with-max-score](https://github.com/stuti760/DSA-Practice/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/stuti760/DSA-Practice/tree/main/1372-longest-zigzag-path-in-a-binary-tree/) | Medium |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/stuti760/DSA-Practice/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
+| [1510-stone-game-iv](https://github.com/stuti760/DSA-Practice/tree/main/1510-stone-game-iv/) | Hard |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/stuti760/DSA-Practice/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/stuti760/DSA-Practice/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 ## Greedy
@@ -726,6 +728,7 @@
 | [0292-nim-game](https://github.com/stuti760/DSA-Practice/tree/main/0292-nim-game/) | Easy |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/stuti760/DSA-Practice/tree/main/0375-guess-number-higher-or-lower-ii/) | Medium |
 | [1140-stone-game-ii](https://github.com/stuti760/DSA-Practice/tree/main/1140-stone-game-ii/) | Medium |
+| [1510-stone-game-iv](https://github.com/stuti760/DSA-Practice/tree/main/1510-stone-game-iv/) | Hard |
 ## Reservoir Sampling
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -775,8 +778,18 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1140-stone-game-ii](https://github.com/stuti760/DSA-Practice/tree/main/1140-stone-game-ii/) | Medium |
+| [1510-stone-game-iv](https://github.com/stuti760/DSA-Practice/tree/main/1510-stone-game-iv/) | Hard |
 ## Zero-Sum Game
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1140-stone-game-ii](https://github.com/stuti760/DSA-Practice/tree/main/1140-stone-game-ii/) | Medium |
+| [1510-stone-game-iv](https://github.com/stuti760/DSA-Practice/tree/main/1510-stone-game-iv/) | Hard |
+## Nim Game
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1510-stone-game-iv](https://github.com/stuti760/DSA-Practice/tree/main/1510-stone-game-iv/) | Hard |
+## Sprague–Grundy Theorem
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1510-stone-game-iv](https://github.com/stuti760/DSA-Practice/tree/main/1510-stone-game-iv/) | Hard |
 <!---LeetCode Topics End-->
