@@ -190,6 +190,7 @@
 | [0441-arranging-coins](https://github.com/stuti760/DSA-Practice/tree/main/0441-arranging-coins/) | Easy |
 | [0445-add-two-numbers-ii](https://github.com/stuti760/DSA-Practice/tree/main/0445-add-two-numbers-ii/) | Medium |
 | [0477-total-hamming-distance](https://github.com/stuti760/DSA-Practice/tree/main/0477-total-hamming-distance/) | Medium |
+| [0492-construct-the-rectangle](https://github.com/stuti760/DSA-Practice/tree/main/0492-construct-the-rectangle/) | Easy |
 | [0504-base-7](https://github.com/stuti760/DSA-Practice/tree/main/0504-base-7/) | Easy |
 | [0507-perfect-number](https://github.com/stuti760/DSA-Practice/tree/main/0507-perfect-number/) | Easy |
 | [0509-fibonacci-number](https://github.com/stuti760/DSA-Practice/tree/main/0509-fibonacci-number/) | Easy |
