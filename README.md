@@ -57,6 +57,7 @@
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/stuti760/DSA-Practice/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
 | [0455-assign-cookies](https://github.com/stuti760/DSA-Practice/tree/main/0455-assign-cookies/) | Easy |
 | [0456-132-pattern](https://github.com/stuti760/DSA-Practice/tree/main/0456-132-pattern/) | Medium |
+| [0477-total-hamming-distance](https://github.com/stuti760/DSA-Practice/tree/main/0477-total-hamming-distance/) | Medium |
 | [0496-next-greater-element-i](https://github.com/stuti760/DSA-Practice/tree/main/0496-next-greater-element-i/) | Easy |
 | [0605-can-place-flowers](https://github.com/stuti760/DSA-Practice/tree/main/0605-can-place-flowers/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/stuti760/DSA-Practice/tree/main/0643-maximum-average-subarray-i/) | Easy |
@@ -188,6 +189,7 @@
 | [0415-add-strings](https://github.com/stuti760/DSA-Practice/tree/main/0415-add-strings/) | Easy |
 | [0441-arranging-coins](https://github.com/stuti760/DSA-Practice/tree/main/0441-arranging-coins/) | Easy |
 | [0445-add-two-numbers-ii](https://github.com/stuti760/DSA-Practice/tree/main/0445-add-two-numbers-ii/) | Medium |
+| [0477-total-hamming-distance](https://github.com/stuti760/DSA-Practice/tree/main/0477-total-hamming-distance/) | Medium |
 | [0504-base-7](https://github.com/stuti760/DSA-Practice/tree/main/0504-base-7/) | Easy |
 | [0507-perfect-number](https://github.com/stuti760/DSA-Practice/tree/main/0507-perfect-number/) | Easy |
 | [0509-fibonacci-number](https://github.com/stuti760/DSA-Practice/tree/main/0509-fibonacci-number/) | Easy |
@@ -578,6 +580,7 @@
 | [0405-convert-a-number-to-hexadecimal](https://github.com/stuti760/DSA-Practice/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy |
 | [0461-hamming-distance](https://github.com/stuti760/DSA-Practice/tree/main/0461-hamming-distance/) | Easy |
 | [0476-number-complement](https://github.com/stuti760/DSA-Practice/tree/main/0476-number-complement/) | Easy |
+| [0477-total-hamming-distance](https://github.com/stuti760/DSA-Practice/tree/main/0477-total-hamming-distance/) | Medium |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/stuti760/DSA-Practice/tree/main/0762-prime-number-of-set-bits-in-binary-representation/) | Easy |
 | [0779-k-th-symbol-in-grammar](https://github.com/stuti760/DSA-Practice/tree/main/0779-k-th-symbol-in-grammar/) | Medium |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/stuti760/DSA-Practice/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
