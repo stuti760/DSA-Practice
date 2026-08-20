@@ -538,6 +538,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0100-same-tree](https://github.com/stuti760/DSA-Practice/tree/main/0100-same-tree/) | Easy |
+| [0102-binary-tree-level-order-traversal](https://github.com/stuti760/DSA-Practice/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0112-path-sum](https://github.com/stuti760/DSA-Practice/tree/main/0112-path-sum/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/stuti760/DSA-Practice/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0226-invert-binary-tree](https://github.com/stuti760/DSA-Practice/tree/main/0226-invert-binary-tree/) | Easy |
@@ -644,6 +645,7 @@
 | [0096-unique-binary-search-trees](https://github.com/stuti760/DSA-Practice/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0099-recover-binary-search-tree](https://github.com/stuti760/DSA-Practice/tree/main/0099-recover-binary-search-tree/) | Medium |
 | [0100-same-tree](https://github.com/stuti760/DSA-Practice/tree/main/0100-same-tree/) | Easy |
+| [0102-binary-tree-level-order-traversal](https://github.com/stuti760/DSA-Practice/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/stuti760/DSA-Practice/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0110-balanced-binary-tree](https://github.com/stuti760/DSA-Practice/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/stuti760/DSA-Practice/tree/main/0112-path-sum/) | Easy |
@@ -668,6 +670,7 @@
 | [0096-unique-binary-search-trees](https://github.com/stuti760/DSA-Practice/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0099-recover-binary-search-tree](https://github.com/stuti760/DSA-Practice/tree/main/0099-recover-binary-search-tree/) | Medium |
 | [0100-same-tree](https://github.com/stuti760/DSA-Practice/tree/main/0100-same-tree/) | Easy |
+| [0102-binary-tree-level-order-traversal](https://github.com/stuti760/DSA-Practice/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/stuti760/DSA-Practice/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0110-balanced-binary-tree](https://github.com/stuti760/DSA-Practice/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/stuti760/DSA-Practice/tree/main/0112-path-sum/) | Easy |
