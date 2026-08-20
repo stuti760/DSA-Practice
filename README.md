@@ -481,6 +481,7 @@
 | [0143-reorder-list](https://github.com/stuti760/DSA-Practice/tree/main/0143-reorder-list/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/stuti760/DSA-Practice/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/stuti760/DSA-Practice/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
+| [0155-min-stack](https://github.com/stuti760/DSA-Practice/tree/main/0155-min-stack/) | Medium |
 | [0232-implement-queue-using-stacks](https://github.com/stuti760/DSA-Practice/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/stuti760/DSA-Practice/tree/main/0331-verify-preorder-serialization-of-a-binary-tree/) | Medium |
 | [0385-mini-parser](https://github.com/stuti760/DSA-Practice/tree/main/0385-mini-parser/) | Medium |
@@ -770,6 +771,7 @@
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0155-min-stack](https://github.com/stuti760/DSA-Practice/tree/main/0155-min-stack/) | Medium |
 | [0232-implement-queue-using-stacks](https://github.com/stuti760/DSA-Practice/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0933-number-of-recent-calls](https://github.com/stuti760/DSA-Practice/tree/main/0933-number-of-recent-calls/) | Easy |
 ## Queue
