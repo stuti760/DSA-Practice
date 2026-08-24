@@ -81,6 +81,7 @@
 | [1679-max-number-of-k-sum-pairs](https://github.com/stuti760/DSA-Practice/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/stuti760/DSA-Practice/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/stuti760/DSA-Practice/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
+| [1872-stone-game-viii](https://github.com/stuti760/DSA-Practice/tree/main/1872-stone-game-viii/) | Hard |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/stuti760/DSA-Practice/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2029-stone-game-ix](https://github.com/stuti760/DSA-Practice/tree/main/2029-stone-game-ix/) | Medium |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/stuti760/DSA-Practice/tree/main/2300-successful-pairs-of-spells-and-potions/) | Medium |
@@ -208,6 +209,7 @@
 | [1716-calculate-money-in-leetcode-bank](https://github.com/stuti760/DSA-Practice/tree/main/1716-calculate-money-in-leetcode-bank/) | Easy |
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/stuti760/DSA-Practice/tree/main/1742-maximum-number-of-balls-in-a-box/) | Easy |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/stuti760/DSA-Practice/tree/main/1812-determine-color-of-a-chessboard-square/) | Easy |
+| [1872-stone-game-viii](https://github.com/stuti760/DSA-Practice/tree/main/1872-stone-game-viii/) | Hard |
 | [1927-sum-game](https://github.com/stuti760/DSA-Practice/tree/main/1927-sum-game/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/stuti760/DSA-Practice/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2029-stone-game-ix](https://github.com/stuti760/DSA-Practice/tree/main/2029-stone-game-ix/) | Medium |
@@ -387,6 +389,7 @@
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/stuti760/DSA-Practice/tree/main/1372-longest-zigzag-path-in-a-binary-tree/) | Medium |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/stuti760/DSA-Practice/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 | [1510-stone-game-iv](https://github.com/stuti760/DSA-Practice/tree/main/1510-stone-game-iv/) | Hard |
+| [1872-stone-game-viii](https://github.com/stuti760/DSA-Practice/tree/main/1872-stone-game-viii/) | Hard |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/stuti760/DSA-Practice/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/stuti760/DSA-Practice/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 ## Greedy
@@ -473,6 +476,7 @@
 | [1140-stone-game-ii](https://github.com/stuti760/DSA-Practice/tree/main/1140-stone-game-ii/) | Medium |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/stuti760/DSA-Practice/tree/main/1588-sum-of-all-odd-length-subarrays/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/stuti760/DSA-Practice/tree/main/1732-find-the-highest-altitude/) | Easy |
+| [1872-stone-game-viii](https://github.com/stuti760/DSA-Practice/tree/main/1872-stone-game-viii/) | Hard |
 | [3312-sorted-gcd-pair-queries](https://github.com/stuti760/DSA-Practice/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/stuti760/DSA-Practice/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
 ## Stack
@@ -754,6 +758,7 @@
 | [0375-guess-number-higher-or-lower-ii](https://github.com/stuti760/DSA-Practice/tree/main/0375-guess-number-higher-or-lower-ii/) | Medium |
 | [1140-stone-game-ii](https://github.com/stuti760/DSA-Practice/tree/main/1140-stone-game-ii/) | Medium |
 | [1510-stone-game-iv](https://github.com/stuti760/DSA-Practice/tree/main/1510-stone-game-iv/) | Hard |
+| [1872-stone-game-viii](https://github.com/stuti760/DSA-Practice/tree/main/1872-stone-game-viii/) | Hard |
 | [1927-sum-game](https://github.com/stuti760/DSA-Practice/tree/main/1927-sum-game/) | Medium |
 | [2029-stone-game-ix](https://github.com/stuti760/DSA-Practice/tree/main/2029-stone-game-ix/) | Medium |
 ## Reservoir Sampling
@@ -807,12 +812,14 @@
 | ------- | ------- |
 | [1140-stone-game-ii](https://github.com/stuti760/DSA-Practice/tree/main/1140-stone-game-ii/) | Medium |
 | [1510-stone-game-iv](https://github.com/stuti760/DSA-Practice/tree/main/1510-stone-game-iv/) | Hard |
+| [1872-stone-game-viii](https://github.com/stuti760/DSA-Practice/tree/main/1872-stone-game-viii/) | Hard |
 | [2029-stone-game-ix](https://github.com/stuti760/DSA-Practice/tree/main/2029-stone-game-ix/) | Medium |
 ## Zero-Sum Game
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1140-stone-game-ii](https://github.com/stuti760/DSA-Practice/tree/main/1140-stone-game-ii/) | Medium |
 | [1510-stone-game-iv](https://github.com/stuti760/DSA-Practice/tree/main/1510-stone-game-iv/) | Hard |
+| [1872-stone-game-viii](https://github.com/stuti760/DSA-Practice/tree/main/1872-stone-game-viii/) | Hard |
 | [2029-stone-game-ix](https://github.com/stuti760/DSA-Practice/tree/main/2029-stone-game-ix/) | Medium |
 ## Nim Game
 | Problem Name | Difficulty |
