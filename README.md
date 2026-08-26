@@ -59,6 +59,7 @@
 | [0456-132-pattern](https://github.com/stuti760/DSA-Practice/tree/main/0456-132-pattern/) | Medium |
 | [0477-total-hamming-distance](https://github.com/stuti760/DSA-Practice/tree/main/0477-total-hamming-distance/) | Medium |
 | [0496-next-greater-element-i](https://github.com/stuti760/DSA-Practice/tree/main/0496-next-greater-element-i/) | Easy |
+| [0560-subarray-sum-equals-k](https://github.com/stuti760/DSA-Practice/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0605-can-place-flowers](https://github.com/stuti760/DSA-Practice/tree/main/0605-can-place-flowers/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/stuti760/DSA-Practice/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0661-image-smoother](https://github.com/stuti760/DSA-Practice/tree/main/0661-image-smoother/) | Easy |
@@ -125,6 +126,7 @@
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/stuti760/DSA-Practice/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/stuti760/DSA-Practice/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0496-next-greater-element-i](https://github.com/stuti760/DSA-Practice/tree/main/0496-next-greater-element-i/) | Easy |
+| [0560-subarray-sum-equals-k](https://github.com/stuti760/DSA-Practice/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [1207-unique-number-of-occurrences](https://github.com/stuti760/DSA-Practice/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/stuti760/DSA-Practice/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/stuti760/DSA-Practice/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
@@ -472,6 +474,7 @@
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/stuti760/DSA-Practice/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/stuti760/DSA-Practice/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1140-stone-game-ii](https://github.com/stuti760/DSA-Practice/tree/main/1140-stone-game-ii/) | Medium |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/stuti760/DSA-Practice/tree/main/1588-sum-of-all-odd-length-subarrays/) | Easy |
