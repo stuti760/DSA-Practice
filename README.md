@@ -112,6 +112,7 @@
 | [0013-roman-to-integer](https://github.com/stuti760/DSA-Practice/tree/main/0013-roman-to-integer/) | Easy |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/stuti760/DSA-Practice/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0041-first-missing-positive](https://github.com/stuti760/DSA-Practice/tree/main/0041-first-missing-positive/) | Hard |
+| [0138-copy-list-with-random-pointer](https://github.com/stuti760/DSA-Practice/tree/main/0138-copy-list-with-random-pointer/) | Medium |
 | [0202-happy-number](https://github.com/stuti760/DSA-Practice/tree/main/0202-happy-number/) | Easy |
 | [0217-contains-duplicate](https://github.com/stuti760/DSA-Practice/tree/main/0217-contains-duplicate/) | Easy |
 | [0229-majority-element-ii](https://github.com/stuti760/DSA-Practice/tree/main/0229-majority-element-ii/) | Medium |
@@ -152,6 +153,7 @@
 | [0086-partition-list](https://github.com/stuti760/DSA-Practice/tree/main/0086-partition-list/) | Medium |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/stuti760/DSA-Practice/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/stuti760/DSA-Practice/tree/main/0116-populating-next-right-pointers-in-each-node/) | Medium |
+| [0138-copy-list-with-random-pointer](https://github.com/stuti760/DSA-Practice/tree/main/0138-copy-list-with-random-pointer/) | Medium |
 | [0143-reorder-list](https://github.com/stuti760/DSA-Practice/tree/main/0143-reorder-list/) | Medium |
 | [0147-insertion-sort-list](https://github.com/stuti760/DSA-Practice/tree/main/0147-insertion-sort-list/) | Medium |
 | [0206-reverse-linked-list](https://github.com/stuti760/DSA-Practice/tree/main/0206-reverse-linked-list/) | Easy |
