@@ -158,6 +158,7 @@
 | [0138-copy-list-with-random-pointer](https://github.com/stuti760/DSA-Practice/tree/main/0138-copy-list-with-random-pointer/) | Medium |
 | [0143-reorder-list](https://github.com/stuti760/DSA-Practice/tree/main/0143-reorder-list/) | Medium |
 | [0147-insertion-sort-list](https://github.com/stuti760/DSA-Practice/tree/main/0147-insertion-sort-list/) | Medium |
+| [0148-sort-list](https://github.com/stuti760/DSA-Practice/tree/main/0148-sort-list/) | Medium |
 | [0206-reverse-linked-list](https://github.com/stuti760/DSA-Practice/tree/main/0206-reverse-linked-list/) | Easy |
 | [0237-delete-node-in-a-linked-list](https://github.com/stuti760/DSA-Practice/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
 | [0328-odd-even-linked-list](https://github.com/stuti760/DSA-Practice/tree/main/0328-odd-even-linked-list/) | Medium |
@@ -275,6 +276,7 @@
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/stuti760/DSA-Practice/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/stuti760/DSA-Practice/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
+| [0148-sort-list](https://github.com/stuti760/DSA-Practice/tree/main/0148-sort-list/) | Medium |
 | [0190-reverse-bits](https://github.com/stuti760/DSA-Practice/tree/main/0190-reverse-bits/) | Easy |
 | [0191-number-of-1-bits](https://github.com/stuti760/DSA-Practice/tree/main/0191-number-of-1-bits/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/stuti760/DSA-Practice/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
@@ -292,6 +294,7 @@
 | [0086-partition-list](https://github.com/stuti760/DSA-Practice/tree/main/0086-partition-list/) | Medium |
 | [0125-valid-palindrome](https://github.com/stuti760/DSA-Practice/tree/main/0125-valid-palindrome/) | Easy |
 | [0143-reorder-list](https://github.com/stuti760/DSA-Practice/tree/main/0143-reorder-list/) | Medium |
+| [0148-sort-list](https://github.com/stuti760/DSA-Practice/tree/main/0148-sort-list/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/stuti760/DSA-Practice/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/stuti760/DSA-Practice/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0202-happy-number](https://github.com/stuti760/DSA-Practice/tree/main/0202-happy-number/) | Easy |
@@ -437,6 +440,7 @@
 | [0015-3sum](https://github.com/stuti760/DSA-Practice/tree/main/0015-3sum/) | Medium |
 | [0047-permutations-ii](https://github.com/stuti760/DSA-Practice/tree/main/0047-permutations-ii/) | Medium |
 | [0147-insertion-sort-list](https://github.com/stuti760/DSA-Practice/tree/main/0147-insertion-sort-list/) | Medium |
+| [0148-sort-list](https://github.com/stuti760/DSA-Practice/tree/main/0148-sort-list/) | Medium |
 | [0164-maximum-gap](https://github.com/stuti760/DSA-Practice/tree/main/0164-maximum-gap/) | Medium |
 | [0179-largest-number](https://github.com/stuti760/DSA-Practice/tree/main/0179-largest-number/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/stuti760/DSA-Practice/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
@@ -483,6 +487,7 @@
 ## Merge Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0148-sort-list](https://github.com/stuti760/DSA-Practice/tree/main/0148-sort-list/) | Medium |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/stuti760/DSA-Practice/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
 ## Prefix Sum
 | Problem Name | Difficulty |
