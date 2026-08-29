@@ -511,6 +511,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/stuti760/DSA-Practice/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/stuti760/DSA-Practice/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0155-min-stack](https://github.com/stuti760/DSA-Practice/tree/main/0155-min-stack/) | Medium |
+| [0173-binary-search-tree-iterator](https://github.com/stuti760/DSA-Practice/tree/main/0173-binary-search-tree-iterator/) | Medium |
 | [0232-implement-queue-using-stacks](https://github.com/stuti760/DSA-Practice/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/stuti760/DSA-Practice/tree/main/0331-verify-preorder-serialization-of-a-binary-tree/) | Medium |
 | [0385-mini-parser](https://github.com/stuti760/DSA-Practice/tree/main/0385-mini-parser/) | Medium |
@@ -685,6 +686,7 @@
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/stuti760/DSA-Practice/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/stuti760/DSA-Practice/tree/main/0116-populating-next-right-pointers-in-each-node/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/stuti760/DSA-Practice/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
+| [0173-binary-search-tree-iterator](https://github.com/stuti760/DSA-Practice/tree/main/0173-binary-search-tree-iterator/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/stuti760/DSA-Practice/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0226-invert-binary-tree](https://github.com/stuti760/DSA-Practice/tree/main/0226-invert-binary-tree/) | Easy |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/stuti760/DSA-Practice/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
@@ -711,6 +713,7 @@
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/stuti760/DSA-Practice/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/stuti760/DSA-Practice/tree/main/0116-populating-next-right-pointers-in-each-node/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/stuti760/DSA-Practice/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
+| [0173-binary-search-tree-iterator](https://github.com/stuti760/DSA-Practice/tree/main/0173-binary-search-tree-iterator/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/stuti760/DSA-Practice/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0226-invert-binary-tree](https://github.com/stuti760/DSA-Practice/tree/main/0226-invert-binary-tree/) | Easy |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/stuti760/DSA-Practice/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
@@ -729,6 +732,7 @@
 | [0096-unique-binary-search-trees](https://github.com/stuti760/DSA-Practice/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0099-recover-binary-search-tree](https://github.com/stuti760/DSA-Practice/tree/main/0099-recover-binary-search-tree/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/stuti760/DSA-Practice/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
+| [0173-binary-search-tree-iterator](https://github.com/stuti760/DSA-Practice/tree/main/0173-binary-search-tree-iterator/) | Medium |
 | [0450-delete-node-in-a-bst](https://github.com/stuti760/DSA-Practice/tree/main/0450-delete-node-in-a-bst/) | Medium |
 | [0700-search-in-a-binary-search-tree](https://github.com/stuti760/DSA-Practice/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 ## Number Theory
@@ -808,6 +812,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0155-min-stack](https://github.com/stuti760/DSA-Practice/tree/main/0155-min-stack/) | Medium |
+| [0173-binary-search-tree-iterator](https://github.com/stuti760/DSA-Practice/tree/main/0173-binary-search-tree-iterator/) | Medium |
 | [0232-implement-queue-using-stacks](https://github.com/stuti760/DSA-Practice/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0933-number-of-recent-calls](https://github.com/stuti760/DSA-Practice/tree/main/0933-number-of-recent-calls/) | Easy |
 ## Queue
@@ -861,4 +866,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0139-word-break](https://github.com/stuti760/DSA-Practice/tree/main/0139-word-break/) | Medium |
+## Iterator
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0173-binary-search-tree-iterator](https://github.com/stuti760/DSA-Practice/tree/main/0173-binary-search-tree-iterator/) | Medium |
 <!---LeetCode Topics End-->
