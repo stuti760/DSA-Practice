@@ -286,6 +286,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/stuti760/DSA-Practice/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/stuti760/DSA-Practice/tree/main/0027-remove-element/) | Easy |
 | [0086-partition-list](https://github.com/stuti760/DSA-Practice/tree/main/0086-partition-list/) | Medium |
+| [0125-valid-palindrome](https://github.com/stuti760/DSA-Practice/tree/main/0125-valid-palindrome/) | Easy |
 | [0143-reorder-list](https://github.com/stuti760/DSA-Practice/tree/main/0143-reorder-list/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/stuti760/DSA-Practice/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/stuti760/DSA-Practice/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
@@ -321,6 +322,7 @@
 | [0067-add-binary](https://github.com/stuti760/DSA-Practice/tree/main/0067-add-binary/) | Easy |
 | [0091-decode-ways](https://github.com/stuti760/DSA-Practice/tree/main/0091-decode-ways/) | Medium |
 | [0097-interleaving-string](https://github.com/stuti760/DSA-Practice/tree/main/0097-interleaving-string/) | Medium |
+| [0125-valid-palindrome](https://github.com/stuti760/DSA-Practice/tree/main/0125-valid-palindrome/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/stuti760/DSA-Practice/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0168-excel-sheet-column-title](https://github.com/stuti760/DSA-Practice/tree/main/0168-excel-sheet-column-title/) | Easy |
 | [0171-excel-sheet-column-number](https://github.com/stuti760/DSA-Practice/tree/main/0171-excel-sheet-column-number/) | Easy |
