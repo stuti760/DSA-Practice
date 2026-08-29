@@ -30,6 +30,7 @@
 | [0134-gas-station](https://github.com/stuti760/DSA-Practice/tree/main/0134-gas-station/) | Medium |
 | [0136-single-number](https://github.com/stuti760/DSA-Practice/tree/main/0136-single-number/) | Easy |
 | [0137-single-number-ii](https://github.com/stuti760/DSA-Practice/tree/main/0137-single-number-ii/) | Medium |
+| [0139-word-break](https://github.com/stuti760/DSA-Practice/tree/main/0139-word-break/) | Medium |
 | [0150-evaluate-reverse-polish-notation](https://github.com/stuti760/DSA-Practice/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/stuti760/DSA-Practice/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/stuti760/DSA-Practice/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
@@ -113,6 +114,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/stuti760/DSA-Practice/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0041-first-missing-positive](https://github.com/stuti760/DSA-Practice/tree/main/0041-first-missing-positive/) | Hard |
 | [0138-copy-list-with-random-pointer](https://github.com/stuti760/DSA-Practice/tree/main/0138-copy-list-with-random-pointer/) | Medium |
+| [0139-word-break](https://github.com/stuti760/DSA-Practice/tree/main/0139-word-break/) | Medium |
 | [0202-happy-number](https://github.com/stuti760/DSA-Practice/tree/main/0202-happy-number/) | Easy |
 | [0217-contains-duplicate](https://github.com/stuti760/DSA-Practice/tree/main/0217-contains-duplicate/) | Easy |
 | [0229-majority-element-ii](https://github.com/stuti760/DSA-Practice/tree/main/0229-majority-element-ii/) | Medium |
@@ -325,6 +327,7 @@
 | [0091-decode-ways](https://github.com/stuti760/DSA-Practice/tree/main/0091-decode-ways/) | Medium |
 | [0097-interleaving-string](https://github.com/stuti760/DSA-Practice/tree/main/0097-interleaving-string/) | Medium |
 | [0125-valid-palindrome](https://github.com/stuti760/DSA-Practice/tree/main/0125-valid-palindrome/) | Easy |
+| [0139-word-break](https://github.com/stuti760/DSA-Practice/tree/main/0139-word-break/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/stuti760/DSA-Practice/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0168-excel-sheet-column-title](https://github.com/stuti760/DSA-Practice/tree/main/0168-excel-sheet-column-title/) | Easy |
 | [0171-excel-sheet-column-number](https://github.com/stuti760/DSA-Practice/tree/main/0171-excel-sheet-column-number/) | Easy |
@@ -382,6 +385,7 @@
 | [0120-triangle](https://github.com/stuti760/DSA-Practice/tree/main/0120-triangle/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/stuti760/DSA-Practice/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/stuti760/DSA-Practice/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
+| [0139-word-break](https://github.com/stuti760/DSA-Practice/tree/main/0139-word-break/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/stuti760/DSA-Practice/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0198-house-robber](https://github.com/stuti760/DSA-Practice/tree/main/0198-house-robber/) | Medium |
 | [0264-ugly-number-ii](https://github.com/stuti760/DSA-Practice/tree/main/0264-ugly-number-ii/) | Medium |
@@ -425,6 +429,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/stuti760/DSA-Practice/tree/main/0014-longest-common-prefix/) | Easy |
+| [0139-word-break](https://github.com/stuti760/DSA-Practice/tree/main/0139-word-break/) | Medium |
 | [0386-lexicographical-numbers](https://github.com/stuti760/DSA-Practice/tree/main/0386-lexicographical-numbers/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
@@ -467,6 +472,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/stuti760/DSA-Practice/tree/main/0070-climbing-stairs/) | Easy |
+| [0139-word-break](https://github.com/stuti760/DSA-Practice/tree/main/0139-word-break/) | Medium |
 | [0397-integer-replacement](https://github.com/stuti760/DSA-Practice/tree/main/0397-integer-replacement/) | Medium |
 | [0509-fibonacci-number](https://github.com/stuti760/DSA-Practice/tree/main/0509-fibonacci-number/) | Easy |
 ## Segment Tree
@@ -845,4 +851,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1510-stone-game-iv](https://github.com/stuti760/DSA-Practice/tree/main/1510-stone-game-iv/) | Hard |
+## Brute-Force Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0139-word-break](https://github.com/stuti760/DSA-Practice/tree/main/0139-word-break/) | Medium |
 <!---LeetCode Topics End-->
