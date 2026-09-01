@@ -1,13 +1,34 @@
+import java.util.HashMap;
+import java.util.Map;
+
 class Solution {
     public int numberOfSubstrings(String s) {
-        int res = 0;
-        int[] p = {-1, -1, -1};
+        int l = 0;
+        int ans = 0;
+        int n = s.length();
+        Map<Character, Integer> mpp = new HashMap<>();
 
-        for (int i = 0; i < s.length(); i++) {
-            p[(s.charAt(i) & 31) - 1] = i;
-            res += Math.min(p[0], Math.min(p[1], p[2])) + 1;
+        for (int r = 0; r < n; r++) {
+            char ch = s.charAt(r);
+            mpp.put(ch, mpp.getOrDefault(ch, 0) + 1);
+
+            
+            while (mpp.size() == 3) {
+               
+                ans += (n - r);
+
+                char leftChar = s.charAt(l);
+                mpp.put(leftChar, mpp.get(leftChar) - 1);
+
+               
+                if (mpp.get(leftChar) == 0) {
+                    mpp.remove(leftChar);
+                }
+
+                l++;
+            }
         }
 
-        return res;
+        return ans;
     }
 }
