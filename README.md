@@ -67,6 +67,7 @@
 | [0665-non-decreasing-array](https://github.com/stuti760/DSA-Practice/tree/main/0665-non-decreasing-array/) | Medium |
 | [0682-baseball-game](https://github.com/stuti760/DSA-Practice/tree/main/0682-baseball-game/) | Easy |
 | [0735-asteroid-collision](https://github.com/stuti760/DSA-Practice/tree/main/0735-asteroid-collision/) | Medium |
+| [0930-binary-subarrays-with-sum](https://github.com/stuti760/DSA-Practice/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/stuti760/DSA-Practice/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1140-stone-game-ii](https://github.com/stuti760/DSA-Practice/tree/main/1140-stone-game-ii/) | Medium |
 | [1207-unique-number-of-occurrences](https://github.com/stuti760/DSA-Practice/tree/main/1207-unique-number-of-occurrences/) | Easy |
@@ -132,6 +133,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/stuti760/DSA-Practice/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0496-next-greater-element-i](https://github.com/stuti760/DSA-Practice/tree/main/0496-next-greater-element-i/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/stuti760/DSA-Practice/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [0930-binary-subarrays-with-sum](https://github.com/stuti760/DSA-Practice/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [1207-unique-number-of-occurrences](https://github.com/stuti760/DSA-Practice/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/stuti760/DSA-Practice/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/stuti760/DSA-Practice/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
@@ -496,6 +498,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/stuti760/DSA-Practice/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [0930-binary-subarrays-with-sum](https://github.com/stuti760/DSA-Practice/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/stuti760/DSA-Practice/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1140-stone-game-ii](https://github.com/stuti760/DSA-Practice/tree/main/1140-stone-game-ii/) | Medium |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/stuti760/DSA-Practice/tree/main/1588-sum-of-all-odd-length-subarrays/) | Easy |
@@ -552,6 +555,7 @@
 | ------- | ------- |
 | [0239-sliding-window-maximum](https://github.com/stuti760/DSA-Practice/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0643-maximum-average-subarray-i](https://github.com/stuti760/DSA-Practice/tree/main/0643-maximum-average-subarray-i/) | Easy |
+| [0930-binary-subarrays-with-sum](https://github.com/stuti760/DSA-Practice/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/stuti760/DSA-Practice/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/stuti760/DSA-Practice/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/stuti760/DSA-Practice/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
