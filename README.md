@@ -107,6 +107,7 @@
 | [3731-find-missing-elements](https://github.com/stuti760/DSA-Practice/tree/main/3731-find-missing-elements/) | Easy |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/stuti760/DSA-Practice/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/stuti760/DSA-Practice/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
+| [3875-construct-uniform-parity-array-i](https://github.com/stuti760/DSA-Practice/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -238,6 +239,7 @@
 | [3536-maximum-product-of-two-digits](https://github.com/stuti760/DSA-Practice/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/stuti760/DSA-Practice/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/stuti760/DSA-Practice/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
+| [3875-construct-uniform-parity-array-i](https://github.com/stuti760/DSA-Practice/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
