@@ -158,6 +158,7 @@
 | [0002-add-two-numbers](https://github.com/stuti760/DSA-Practice/tree/main/0002-add-two-numbers/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/stuti760/DSA-Practice/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/stuti760/DSA-Practice/tree/main/0021-merge-two-sorted-lists/) | Easy |
+| [0061-rotate-list](https://github.com/stuti760/DSA-Practice/tree/main/0061-rotate-list/) | Medium |
 | [0086-partition-list](https://github.com/stuti760/DSA-Practice/tree/main/0086-partition-list/) | Medium |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/stuti760/DSA-Practice/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/stuti760/DSA-Practice/tree/main/0116-populating-next-right-pointers-in-each-node/) | Medium |
@@ -300,6 +301,7 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/stuti760/DSA-Practice/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/stuti760/DSA-Practice/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/stuti760/DSA-Practice/tree/main/0027-remove-element/) | Easy |
+| [0061-rotate-list](https://github.com/stuti760/DSA-Practice/tree/main/0061-rotate-list/) | Medium |
 | [0086-partition-list](https://github.com/stuti760/DSA-Practice/tree/main/0086-partition-list/) | Medium |
 | [0125-valid-palindrome](https://github.com/stuti760/DSA-Practice/tree/main/0125-valid-palindrome/) | Easy |
 | [0143-reorder-list](https://github.com/stuti760/DSA-Practice/tree/main/0143-reorder-list/) | Medium |
