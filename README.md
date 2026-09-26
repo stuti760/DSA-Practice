@@ -46,6 +46,7 @@
 | [0228-summary-ranges](https://github.com/stuti760/DSA-Practice/tree/main/0228-summary-ranges/) | Easy |
 | [0229-majority-element-ii](https://github.com/stuti760/DSA-Practice/tree/main/0229-majority-element-ii/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/stuti760/DSA-Practice/tree/main/0239-sliding-window-maximum/) | Hard |
+| [0240-search-a-2d-matrix-ii](https://github.com/stuti760/DSA-Practice/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0268-missing-number](https://github.com/stuti760/DSA-Practice/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/stuti760/DSA-Practice/tree/main/0283-move-zeroes/) | Easy |
 | [0334-increasing-triplet-subsequence](https://github.com/stuti760/DSA-Practice/tree/main/0334-increasing-triplet-subsequence/) | Medium |
@@ -268,6 +269,7 @@
 | [0074-search-a-2d-matrix](https://github.com/stuti760/DSA-Practice/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/stuti760/DSA-Practice/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/stuti760/DSA-Practice/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0240-search-a-2d-matrix-ii](https://github.com/stuti760/DSA-Practice/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0268-missing-number](https://github.com/stuti760/DSA-Practice/tree/main/0268-missing-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/stuti760/DSA-Practice/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/stuti760/DSA-Practice/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
@@ -292,6 +294,7 @@
 | [0190-reverse-bits](https://github.com/stuti760/DSA-Practice/tree/main/0190-reverse-bits/) | Easy |
 | [0191-number-of-1-bits](https://github.com/stuti760/DSA-Practice/tree/main/0191-number-of-1-bits/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/stuti760/DSA-Practice/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0240-search-a-2d-matrix-ii](https://github.com/stuti760/DSA-Practice/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/stuti760/DSA-Practice/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/stuti760/DSA-Practice/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
 ## Two Pointers
@@ -575,6 +578,7 @@
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/stuti760/DSA-Practice/tree/main/0048-rotate-image/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/stuti760/DSA-Practice/tree/main/0074-search-a-2d-matrix/) | Medium |
+| [0240-search-a-2d-matrix-ii](https://github.com/stuti760/DSA-Practice/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0661-image-smoother](https://github.com/stuti760/DSA-Practice/tree/main/0661-image-smoother/) | Easy |
 | [1260-shift-2d-grid](https://github.com/stuti760/DSA-Practice/tree/main/1260-shift-2d-grid/) | Easy |
 | [1301-number-of-paths-with-max-score](https://github.com/stuti760/DSA-Practice/tree/main/1301-number-of-paths-with-max-score/) | Hard |
