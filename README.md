@@ -896,4 +896,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/stuti760/DSA-Practice/tree/main/0173-binary-search-tree-iterator/) | Medium |
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0577-employee-bonus](https://github.com/stuti760/DSA-Practice/tree/main/0577-employee-bonus/) | Easy |
 <!---LeetCode Topics End-->
