@@ -901,6 +901,7 @@
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0185-department-top-three-salaries](https://github.com/stuti760/DSA-Practice/tree/main/0185-department-top-three-salaries/) | Hard |
 | [0550-game-play-analysis-iv](https://github.com/stuti760/DSA-Practice/tree/main/0550-game-play-analysis-iv/) | Medium |
 | [0577-employee-bonus](https://github.com/stuti760/DSA-Practice/tree/main/0577-employee-bonus/) | Easy |
 | [0584-find-customer-referee](https://github.com/stuti760/DSA-Practice/tree/main/0584-find-customer-referee/) | Easy |
