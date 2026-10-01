@@ -905,6 +905,7 @@
 | [0577-employee-bonus](https://github.com/stuti760/DSA-Practice/tree/main/0577-employee-bonus/) | Easy |
 | [0584-find-customer-referee](https://github.com/stuti760/DSA-Practice/tree/main/0584-find-customer-referee/) | Easy |
 | [0596-classes-with-at-least-5-students](https://github.com/stuti760/DSA-Practice/tree/main/0596-classes-with-at-least-5-students/) | Easy |
+| [0602-friend-requests-ii-who-has-the-most-friends](https://github.com/stuti760/DSA-Practice/tree/main/0602-friend-requests-ii-who-has-the-most-friends/) | Medium |
 | [0610-triangle-judgement](https://github.com/stuti760/DSA-Practice/tree/main/0610-triangle-judgement/) | Easy |
 | [0619-biggest-single-number](https://github.com/stuti760/DSA-Practice/tree/main/0619-biggest-single-number/) | Easy |
 | [0620-not-boring-movies](https://github.com/stuti760/DSA-Practice/tree/main/0620-not-boring-movies/) | Easy |
