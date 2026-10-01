@@ -911,6 +911,7 @@
 | [1211-queries-quality-and-percentage](https://github.com/stuti760/DSA-Practice/tree/main/1211-queries-quality-and-percentage/) | Easy |
 | [1251-average-selling-price](https://github.com/stuti760/DSA-Practice/tree/main/1251-average-selling-price/) | Easy |
 | [1757-recyclable-and-low-fat-products](https://github.com/stuti760/DSA-Practice/tree/main/1757-recyclable-and-low-fat-products/) | Easy |
+| [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/stuti760/DSA-Practice/tree/main/2356-number-of-unique-subjects-taught-by-each-teacher/) | Easy |
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
