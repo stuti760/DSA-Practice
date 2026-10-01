@@ -911,6 +911,7 @@
 | ------- | ------- |
 | [0185-department-top-three-salaries](https://github.com/stuti760/DSA-Practice/tree/main/0185-department-top-three-salaries/) | Hard |
 | [0550-game-play-analysis-iv](https://github.com/stuti760/DSA-Practice/tree/main/0550-game-play-analysis-iv/) | Medium |
+| [0570-managers-with-at-least-5-direct-reports](https://github.com/stuti760/DSA-Practice/tree/main/0570-managers-with-at-least-5-direct-reports/) | Medium |
 | [0577-employee-bonus](https://github.com/stuti760/DSA-Practice/tree/main/0577-employee-bonus/) | Easy |
 | [0584-find-customer-referee](https://github.com/stuti760/DSA-Practice/tree/main/0584-find-customer-referee/) | Easy |
 | [0585-investments-in-2016](https://github.com/stuti760/DSA-Practice/tree/main/0585-investments-in-2016/) | Medium |
