@@ -682,6 +682,7 @@
 | [0386-lexicographical-numbers](https://github.com/stuti760/DSA-Practice/tree/main/0386-lexicographical-numbers/) | Medium |
 | [0404-sum-of-left-leaves](https://github.com/stuti760/DSA-Practice/tree/main/0404-sum-of-left-leaves/) | Easy |
 | [0437-path-sum-iii](https://github.com/stuti760/DSA-Practice/tree/main/0437-path-sum-iii/) | Medium |
+| [0669-trim-a-binary-search-tree](https://github.com/stuti760/DSA-Practice/tree/main/0669-trim-a-binary-search-tree/) | Medium |
 | [0841-keys-and-rooms](https://github.com/stuti760/DSA-Practice/tree/main/0841-keys-and-rooms/) | Medium |
 | [0872-leaf-similar-trees](https://github.com/stuti760/DSA-Practice/tree/main/0872-leaf-similar-trees/) | Easy |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/stuti760/DSA-Practice/tree/main/1372-longest-zigzag-path-in-a-binary-tree/) | Medium |
@@ -720,6 +721,7 @@
 | [0404-sum-of-left-leaves](https://github.com/stuti760/DSA-Practice/tree/main/0404-sum-of-left-leaves/) | Easy |
 | [0437-path-sum-iii](https://github.com/stuti760/DSA-Practice/tree/main/0437-path-sum-iii/) | Medium |
 | [0450-delete-node-in-a-bst](https://github.com/stuti760/DSA-Practice/tree/main/0450-delete-node-in-a-bst/) | Medium |
+| [0669-trim-a-binary-search-tree](https://github.com/stuti760/DSA-Practice/tree/main/0669-trim-a-binary-search-tree/) | Medium |
 | [0700-search-in-a-binary-search-tree](https://github.com/stuti760/DSA-Practice/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0872-leaf-similar-trees](https://github.com/stuti760/DSA-Practice/tree/main/0872-leaf-similar-trees/) | Easy |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/stuti760/DSA-Practice/tree/main/1372-longest-zigzag-path-in-a-binary-tree/) | Medium |
@@ -748,6 +750,7 @@
 | [0404-sum-of-left-leaves](https://github.com/stuti760/DSA-Practice/tree/main/0404-sum-of-left-leaves/) | Easy |
 | [0437-path-sum-iii](https://github.com/stuti760/DSA-Practice/tree/main/0437-path-sum-iii/) | Medium |
 | [0450-delete-node-in-a-bst](https://github.com/stuti760/DSA-Practice/tree/main/0450-delete-node-in-a-bst/) | Medium |
+| [0669-trim-a-binary-search-tree](https://github.com/stuti760/DSA-Practice/tree/main/0669-trim-a-binary-search-tree/) | Medium |
 | [0700-search-in-a-binary-search-tree](https://github.com/stuti760/DSA-Practice/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0872-leaf-similar-trees](https://github.com/stuti760/DSA-Practice/tree/main/0872-leaf-similar-trees/) | Easy |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/stuti760/DSA-Practice/tree/main/1372-longest-zigzag-path-in-a-binary-tree/) | Medium |
@@ -762,6 +765,7 @@
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/stuti760/DSA-Practice/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0173-binary-search-tree-iterator](https://github.com/stuti760/DSA-Practice/tree/main/0173-binary-search-tree-iterator/) | Medium |
 | [0450-delete-node-in-a-bst](https://github.com/stuti760/DSA-Practice/tree/main/0450-delete-node-in-a-bst/) | Medium |
+| [0669-trim-a-binary-search-tree](https://github.com/stuti760/DSA-Practice/tree/main/0669-trim-a-binary-search-tree/) | Medium |
 | [0700-search-in-a-binary-search-tree](https://github.com/stuti760/DSA-Practice/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 ## Number Theory
 | Problem Name | Difficulty |
