@@ -917,6 +917,7 @@
 | [1193-monthly-transactions-i](https://github.com/stuti760/DSA-Practice/tree/main/1193-monthly-transactions-i/) | Medium |
 | [1211-queries-quality-and-percentage](https://github.com/stuti760/DSA-Practice/tree/main/1211-queries-quality-and-percentage/) | Easy |
 | [1251-average-selling-price](https://github.com/stuti760/DSA-Practice/tree/main/1251-average-selling-price/) | Easy |
+| [1341-movie-rating](https://github.com/stuti760/DSA-Practice/tree/main/1341-movie-rating/) | Medium |
 | [1729-find-followers-count](https://github.com/stuti760/DSA-Practice/tree/main/1729-find-followers-count/) | Easy |
 | [1731-the-number-of-employees-which-report-to-each-employee](https://github.com/stuti760/DSA-Practice/tree/main/1731-the-number-of-employees-which-report-to-each-employee/) | Easy |
 | [1757-recyclable-and-low-fat-products](https://github.com/stuti760/DSA-Practice/tree/main/1757-recyclable-and-low-fat-products/) | Easy |
