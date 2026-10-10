@@ -599,6 +599,7 @@
 | ------- | ------- |
 | [0100-same-tree](https://github.com/stuti760/DSA-Practice/tree/main/0100-same-tree/) | Easy |
 | [0102-binary-tree-level-order-traversal](https://github.com/stuti760/DSA-Practice/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/stuti760/DSA-Practice/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0112-path-sum](https://github.com/stuti760/DSA-Practice/tree/main/0112-path-sum/) | Easy |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/stuti760/DSA-Practice/tree/main/0116-populating-next-right-pointers-in-each-node/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/stuti760/DSA-Practice/tree/main/0199-binary-tree-right-side-view/) | Medium |
@@ -716,6 +717,7 @@
 | [0099-recover-binary-search-tree](https://github.com/stuti760/DSA-Practice/tree/main/0099-recover-binary-search-tree/) | Medium |
 | [0100-same-tree](https://github.com/stuti760/DSA-Practice/tree/main/0100-same-tree/) | Easy |
 | [0102-binary-tree-level-order-traversal](https://github.com/stuti760/DSA-Practice/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/stuti760/DSA-Practice/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/stuti760/DSA-Practice/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0110-balanced-binary-tree](https://github.com/stuti760/DSA-Practice/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/stuti760/DSA-Practice/tree/main/0112-path-sum/) | Easy |
@@ -746,6 +748,7 @@
 | [0099-recover-binary-search-tree](https://github.com/stuti760/DSA-Practice/tree/main/0099-recover-binary-search-tree/) | Medium |
 | [0100-same-tree](https://github.com/stuti760/DSA-Practice/tree/main/0100-same-tree/) | Easy |
 | [0102-binary-tree-level-order-traversal](https://github.com/stuti760/DSA-Practice/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/stuti760/DSA-Practice/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/stuti760/DSA-Practice/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0110-balanced-binary-tree](https://github.com/stuti760/DSA-Practice/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/stuti760/DSA-Practice/tree/main/0112-path-sum/) | Easy |
