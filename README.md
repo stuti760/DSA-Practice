@@ -90,6 +90,7 @@
 | [1979-find-greatest-common-divisor-of-array](https://github.com/stuti760/DSA-Practice/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2029-stone-game-ix](https://github.com/stuti760/DSA-Practice/tree/main/2029-stone-game-ix/) | Medium |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/stuti760/DSA-Practice/tree/main/2300-successful-pairs-of-spells-and-potions/) | Medium |
+| [2333-minimum-sum-of-squared-difference](https://github.com/stuti760/DSA-Practice/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2352-equal-row-and-column-pairs](https://github.com/stuti760/DSA-Practice/tree/main/2352-equal-row-and-column-pairs/) | Medium |
 | [2462-total-cost-to-hire-k-workers](https://github.com/stuti760/DSA-Practice/tree/main/2462-total-cost-to-hire-k-workers/) | Medium |
 | [2542-maximum-subsequence-score](https://github.com/stuti760/DSA-Practice/tree/main/2542-maximum-subsequence-score/) | Medium |
@@ -281,6 +282,7 @@
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/stuti760/DSA-Practice/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
 | [1552-magnetic-force-between-two-balls](https://github.com/stuti760/DSA-Practice/tree/main/1552-magnetic-force-between-two-balls/) | Medium |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/stuti760/DSA-Practice/tree/main/2300-successful-pairs-of-spells-and-potions/) | Medium |
+| [2333-minimum-sum-of-squared-difference](https://github.com/stuti760/DSA-Practice/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/stuti760/DSA-Practice/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/stuti760/DSA-Practice/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 | [3312-sorted-gcd-pair-queries](https://github.com/stuti760/DSA-Practice/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
@@ -444,6 +446,7 @@
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/stuti760/DSA-Practice/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [1927-sum-game](https://github.com/stuti760/DSA-Practice/tree/main/1927-sum-game/) | Medium |
 | [2029-stone-game-ix](https://github.com/stuti760/DSA-Practice/tree/main/2029-stone-game-ix/) | Medium |
+| [2333-minimum-sum-of-squared-difference](https://github.com/stuti760/DSA-Practice/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2542-maximum-subsequence-score](https://github.com/stuti760/DSA-Practice/tree/main/2542-maximum-subsequence-score/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/stuti760/DSA-Practice/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/stuti760/DSA-Practice/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
@@ -483,6 +486,7 @@
 | [1679-max-number-of-k-sum-pairs](https://github.com/stuti760/DSA-Practice/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/stuti760/DSA-Practice/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/stuti760/DSA-Practice/tree/main/2300-successful-pairs-of-spells-and-potions/) | Medium |
+| [2333-minimum-sum-of-squared-difference](https://github.com/stuti760/DSA-Practice/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2542-maximum-subsequence-score](https://github.com/stuti760/DSA-Practice/tree/main/2542-maximum-subsequence-score/) | Medium |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/stuti760/DSA-Practice/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/stuti760/DSA-Practice/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
@@ -622,6 +626,7 @@
 | [0347-top-k-frequent-elements](https://github.com/stuti760/DSA-Practice/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/stuti760/DSA-Practice/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/stuti760/DSA-Practice/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+| [2333-minimum-sum-of-squared-difference](https://github.com/stuti760/DSA-Practice/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2462-total-cost-to-hire-k-workers](https://github.com/stuti760/DSA-Practice/tree/main/2462-total-cost-to-hire-k-workers/) | Medium |
 | [2542-maximum-subsequence-score](https://github.com/stuti760/DSA-Practice/tree/main/2542-maximum-subsequence-score/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/stuti760/DSA-Practice/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
