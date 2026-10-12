@@ -97,6 +97,7 @@
 | [2778-sum-of-squares-of-special-elements](https://github.com/stuti760/DSA-Practice/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/stuti760/DSA-Practice/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/stuti760/DSA-Practice/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/stuti760/DSA-Practice/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/stuti760/DSA-Practice/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/stuti760/DSA-Practice/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/stuti760/DSA-Practice/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
@@ -149,6 +150,7 @@
 | [1679-max-number-of-k-sum-pairs](https://github.com/stuti760/DSA-Practice/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/stuti760/DSA-Practice/tree/main/1742-maximum-number-of-balls-in-a-box/) | Easy |
 | [2352-equal-row-and-column-pairs](https://github.com/stuti760/DSA-Practice/tree/main/2352-equal-row-and-column-pairs/) | Medium |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/stuti760/DSA-Practice/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/stuti760/DSA-Practice/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/stuti760/DSA-Practice/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3312-sorted-gcd-pair-queries](https://github.com/stuti760/DSA-Practice/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
@@ -449,6 +451,7 @@
 | [2029-stone-game-ix](https://github.com/stuti760/DSA-Practice/tree/main/2029-stone-game-ix/) | Medium |
 | [2333-minimum-sum-of-squared-difference](https://github.com/stuti760/DSA-Practice/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2542-maximum-subsequence-score](https://github.com/stuti760/DSA-Practice/tree/main/2542-maximum-subsequence-score/) | Medium |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/stuti760/DSA-Practice/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/stuti760/DSA-Practice/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/stuti760/DSA-Practice/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 ## Trie
@@ -655,6 +658,7 @@
 | [0477-total-hamming-distance](https://github.com/stuti760/DSA-Practice/tree/main/0477-total-hamming-distance/) | Medium |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/stuti760/DSA-Practice/tree/main/0762-prime-number-of-set-bits-in-binary-representation/) | Easy |
 | [0779-k-th-symbol-in-grammar](https://github.com/stuti760/DSA-Practice/tree/main/0779-k-th-symbol-in-grammar/) | Medium |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/stuti760/DSA-Practice/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/stuti760/DSA-Practice/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/stuti760/DSA-Practice/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/stuti760/DSA-Practice/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
