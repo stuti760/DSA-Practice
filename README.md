@@ -110,6 +110,7 @@
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/stuti760/DSA-Practice/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/stuti760/DSA-Practice/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/stuti760/DSA-Practice/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/stuti760/DSA-Practice/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 | [3731-find-missing-elements](https://github.com/stuti760/DSA-Practice/tree/main/3731-find-missing-elements/) | Easy |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/stuti760/DSA-Practice/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/stuti760/DSA-Practice/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
@@ -454,6 +455,7 @@
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/stuti760/DSA-Practice/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/stuti760/DSA-Practice/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/stuti760/DSA-Practice/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/stuti760/DSA-Practice/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -497,6 +499,7 @@
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/stuti760/DSA-Practice/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/stuti760/DSA-Practice/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3536-maximum-product-of-two-digits](https://github.com/stuti760/DSA-Practice/tree/main/3536-maximum-product-of-two-digits/) | Easy |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/stuti760/DSA-Practice/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 | [3731-find-missing-elements](https://github.com/stuti760/DSA-Practice/tree/main/3731-find-missing-elements/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/stuti760/DSA-Practice/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Memoization
