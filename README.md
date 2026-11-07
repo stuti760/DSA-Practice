@@ -87,6 +87,7 @@
 | [1732-find-the-highest-altitude](https://github.com/stuti760/DSA-Practice/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/stuti760/DSA-Practice/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [1872-stone-game-viii](https://github.com/stuti760/DSA-Practice/tree/main/1872-stone-game-viii/) | Hard |
+| [1882-process-tasks-using-servers](https://github.com/stuti760/DSA-Practice/tree/main/1882-process-tasks-using-servers/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/stuti760/DSA-Practice/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2029-stone-game-ix](https://github.com/stuti760/DSA-Practice/tree/main/2029-stone-game-ix/) | Medium |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/stuti760/DSA-Practice/tree/main/2300-successful-pairs-of-spells-and-potions/) | Medium |
@@ -641,6 +642,7 @@
 | [0347-top-k-frequent-elements](https://github.com/stuti760/DSA-Practice/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/stuti760/DSA-Practice/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/stuti760/DSA-Practice/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+| [1882-process-tasks-using-servers](https://github.com/stuti760/DSA-Practice/tree/main/1882-process-tasks-using-servers/) | Medium |
 | [2333-minimum-sum-of-squared-difference](https://github.com/stuti760/DSA-Practice/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2462-total-cost-to-hire-k-workers](https://github.com/stuti760/DSA-Practice/tree/main/2462-total-cost-to-hire-k-workers/) | Medium |
 | [2542-maximum-subsequence-score](https://github.com/stuti760/DSA-Practice/tree/main/2542-maximum-subsequence-score/) | Medium |
