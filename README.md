@@ -94,6 +94,7 @@
 | [2352-equal-row-and-column-pairs](https://github.com/stuti760/DSA-Practice/tree/main/2352-equal-row-and-column-pairs/) | Medium |
 | [2462-total-cost-to-hire-k-workers](https://github.com/stuti760/DSA-Practice/tree/main/2462-total-cost-to-hire-k-workers/) | Medium |
 | [2542-maximum-subsequence-score](https://github.com/stuti760/DSA-Practice/tree/main/2542-maximum-subsequence-score/) | Medium |
+| [2747-count-zero-request-servers](https://github.com/stuti760/DSA-Practice/tree/main/2747-count-zero-request-servers/) | Medium |
 | [2778-sum-of-squares-of-special-elements](https://github.com/stuti760/DSA-Practice/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/stuti760/DSA-Practice/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/stuti760/DSA-Practice/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
@@ -151,6 +152,7 @@
 | [1679-max-number-of-k-sum-pairs](https://github.com/stuti760/DSA-Practice/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/stuti760/DSA-Practice/tree/main/1742-maximum-number-of-balls-in-a-box/) | Easy |
 | [2352-equal-row-and-column-pairs](https://github.com/stuti760/DSA-Practice/tree/main/2352-equal-row-and-column-pairs/) | Medium |
+| [2747-count-zero-request-servers](https://github.com/stuti760/DSA-Practice/tree/main/2747-count-zero-request-servers/) | Medium |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/stuti760/DSA-Practice/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/stuti760/DSA-Practice/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/stuti760/DSA-Practice/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
@@ -496,6 +498,7 @@
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/stuti760/DSA-Practice/tree/main/2300-successful-pairs-of-spells-and-potions/) | Medium |
 | [2333-minimum-sum-of-squared-difference](https://github.com/stuti760/DSA-Practice/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2542-maximum-subsequence-score](https://github.com/stuti760/DSA-Practice/tree/main/2542-maximum-subsequence-score/) | Medium |
+| [2747-count-zero-request-servers](https://github.com/stuti760/DSA-Practice/tree/main/2747-count-zero-request-servers/) | Medium |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/stuti760/DSA-Practice/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/stuti760/DSA-Practice/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/stuti760/DSA-Practice/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
@@ -592,6 +595,7 @@
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/stuti760/DSA-Practice/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/stuti760/DSA-Practice/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/stuti760/DSA-Practice/tree/main/2269-find-the-k-beauty-of-a-number/) | Easy |
+| [2747-count-zero-request-servers](https://github.com/stuti760/DSA-Practice/tree/main/2747-count-zero-request-servers/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
