@@ -107,6 +107,7 @@
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/stuti760/DSA-Practice/tree/main/3105-longest-strictly-increasing-or-strictly-decreasing-subarray/) | Easy |
 | [3312-sorted-gcd-pair-queries](https://github.com/stuti760/DSA-Practice/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/stuti760/DSA-Practice/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/stuti760/DSA-Practice/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/stuti760/DSA-Practice/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/stuti760/DSA-Practice/tree/main/3501-maximize-active-section-with-trade-ii/) | Hard |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/stuti760/DSA-Practice/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
@@ -519,6 +520,7 @@
 ## Segment Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/stuti760/DSA-Practice/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/stuti760/DSA-Practice/tree/main/3501-maximize-active-section-with-trade-ii/) | Hard |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/stuti760/DSA-Practice/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
 ## Merge Sort
@@ -564,6 +566,7 @@
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/stuti760/DSA-Practice/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/stuti760/DSA-Practice/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [2390-removing-stars-from-a-string](https://github.com/stuti760/DSA-Practice/tree/main/2390-removing-stars-from-a-string/) | Medium |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/stuti760/DSA-Practice/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -598,6 +601,7 @@
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/stuti760/DSA-Practice/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/stuti760/DSA-Practice/tree/main/2269-find-the-k-beauty-of-a-number/) | Easy |
 | [2747-count-zero-request-servers](https://github.com/stuti760/DSA-Practice/tree/main/2747-count-zero-request-servers/) | Medium |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/stuti760/DSA-Practice/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -873,6 +877,7 @@
 | [0496-next-greater-element-i](https://github.com/stuti760/DSA-Practice/tree/main/0496-next-greater-element-i/) | Easy |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/stuti760/DSA-Practice/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/stuti760/DSA-Practice/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/stuti760/DSA-Practice/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -888,6 +893,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/stuti760/DSA-Practice/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0649-dota2-senate](https://github.com/stuti760/DSA-Practice/tree/main/0649-dota2-senate/) | Medium |
 | [0933-number-of-recent-calls](https://github.com/stuti760/DSA-Practice/tree/main/0933-number-of-recent-calls/) | Easy |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/stuti760/DSA-Practice/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
 ## Data Stream
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -896,6 +902,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0239-sliding-window-maximum](https://github.com/stuti760/DSA-Practice/tree/main/0239-sliding-window-maximum/) | Hard |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/stuti760/DSA-Practice/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
