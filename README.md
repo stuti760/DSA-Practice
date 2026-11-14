@@ -107,6 +107,7 @@
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/stuti760/DSA-Practice/tree/main/3105-longest-strictly-increasing-or-strictly-decreasing-subarray/) | Easy |
 | [3312-sorted-gcd-pair-queries](https://github.com/stuti760/DSA-Practice/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/stuti760/DSA-Practice/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
+| [3364-minimum-positive-sum-subarray](https://github.com/stuti760/DSA-Practice/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/stuti760/DSA-Practice/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/stuti760/DSA-Practice/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/stuti760/DSA-Practice/tree/main/3501-maximize-active-section-with-trade-ii/) | Hard |
@@ -539,6 +540,7 @@
 | [1732-find-the-highest-altitude](https://github.com/stuti760/DSA-Practice/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1872-stone-game-viii](https://github.com/stuti760/DSA-Practice/tree/main/1872-stone-game-viii/) | Hard |
 | [3312-sorted-gcd-pair-queries](https://github.com/stuti760/DSA-Practice/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
+| [3364-minimum-positive-sum-subarray](https://github.com/stuti760/DSA-Practice/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/stuti760/DSA-Practice/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
 ## Stack
 | Problem Name | Difficulty |
@@ -601,6 +603,7 @@
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/stuti760/DSA-Practice/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/stuti760/DSA-Practice/tree/main/2269-find-the-k-beauty-of-a-number/) | Easy |
 | [2747-count-zero-request-servers](https://github.com/stuti760/DSA-Practice/tree/main/2747-count-zero-request-servers/) | Medium |
+| [3364-minimum-positive-sum-subarray](https://github.com/stuti760/DSA-Practice/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/stuti760/DSA-Practice/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
 ## Matrix
 | Problem Name | Difficulty |
