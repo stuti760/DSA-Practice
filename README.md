@@ -396,6 +396,7 @@
 | [1768-merge-strings-alternately](https://github.com/stuti760/DSA-Practice/tree/main/1768-merge-strings-alternately/) | Easy |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/stuti760/DSA-Practice/tree/main/1812-determine-color-of-a-chessboard-square/) | Easy |
 | [1927-sum-game](https://github.com/stuti760/DSA-Practice/tree/main/1927-sum-game/) | Medium |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/stuti760/DSA-Practice/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/stuti760/DSA-Practice/tree/main/2269-find-the-k-beauty-of-a-number/) | Easy |
 | [2390-removing-stars-from-a-string](https://github.com/stuti760/DSA-Practice/tree/main/2390-removing-stars-from-a-string/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/stuti760/DSA-Practice/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
@@ -696,6 +697,7 @@
 | [1260-shift-2d-grid](https://github.com/stuti760/DSA-Practice/tree/main/1260-shift-2d-grid/) | Easy |
 | [1688-count-of-matches-in-tournament](https://github.com/stuti760/DSA-Practice/tree/main/1688-count-of-matches-in-tournament/) | Easy |
 | [2180-count-integers-with-even-digit-sum](https://github.com/stuti760/DSA-Practice/tree/main/2180-count-integers-with-even-digit-sum/) | Easy |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/stuti760/DSA-Practice/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
 | [2352-equal-row-and-column-pairs](https://github.com/stuti760/DSA-Practice/tree/main/2352-equal-row-and-column-pairs/) | Medium |
 | [2390-removing-stars-from-a-string](https://github.com/stuti760/DSA-Practice/tree/main/2390-removing-stars-from-a-string/) | Medium |
 | [2462-total-cost-to-hire-k-workers](https://github.com/stuti760/DSA-Practice/tree/main/2462-total-cost-to-hire-k-workers/) | Medium |
